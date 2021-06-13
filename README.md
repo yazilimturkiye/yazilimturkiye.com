@@ -3,3 +3,9 @@
 <p align="center">
   <img width="250" height="250" src="https://www.yazilimturkiye.com/wp-content/uploads/2021/06/yenilogo.jpg">
 </p>
+
+## Neler Yapıyoruz?
+
+* Yazılımcılar için öğretici ve yol gösterici makaleler yayımlanıyor.
+* Ücretli ve ücretsiz önerdiğimiz tüm <b>[Türkçe kaynakları](https://github.com/yazilimturkiye/yazilimturkiye.com/kaynaklar)</b> listeleyip paylaşıyoruz.
+* Github hesabımız üzerinden yazılım geliştiriyoruz.
