@@ -7,5 +7,5 @@
 ## Neler Yapıyoruz?
 
 * Yazılımcılar için öğretici ve yol gösterici makaleler yayımlanıyor.
-* Ücretli ve ücretsiz önerdiğimiz tüm <b>[Türkçe kaynakları](https://github.com/yazilimturkiye/yazilimturkiye.com/kaynaklar)</b> listeleyip paylaşıyoruz.
+* Ücretli ve ücretsiz önerdiğimiz tüm <b>[Türkçe kaynakları](https://github.com/yazilimturkiye/yazilimturkiye.com/tree/main/Kaynaklar)</b> listeleyip paylaşıyoruz.
 * Github hesabımız üzerinden yazılım geliştiriyoruz.
