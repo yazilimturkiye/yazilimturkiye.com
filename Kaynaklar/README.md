@@ -38,7 +38,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
-- <b>Fikret YALÇIN</b>
+- <b>[Fikret YALÇIN](https://github.com/fikretyn)</b>
 	- 📁 Doküman : [Android Studio Dersleri](https://mega.nz/file/b5Fh0SpK#DktDT1wTlz8KuBYO-sSPF1CrqS21bTbUrpzNzRkBNxE)
 - <b>[Türkçe Kaynaklar](https://turkcekaynaklar.com/)</b>
 - <b></b>
