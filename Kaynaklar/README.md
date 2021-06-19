@@ -32,9 +32,14 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 - <b>ASP.NET</b> 
 - <b>Ücretsiz Kaynaklar</b>
-
+	- Web Sitesi : [Btdersleri](https://www.btdersleri.com/)
+	- 📺 Video : [Asp.Net ile Okul Projesi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49bsuq6iLrg1qyZtekSCgPW)
+	- 📺 Video : [ASP.NET Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIsS51_RkdIpX8gemXkXXhD)
+	- 📺 Kurs : [Asp.mvc](https://www.udemy.com/course/aspmvc-x/)
 - <b>Ücretsiz Kaynaklar</b>
-
+	- 📺 Kurs : [Asp.Net ile Cv Sitesi ve Film & Dizi Yorum Sitesi Projeleri](https://www.udemy.com/course/aspnet-bootstrap-ile-adim-adim-blog-sitesi-gelistirme/)
+	- 📺 Kurs : [ASP.NET Webform Eğitim Videosu Serisi](https://www.udemy.com/course/aspnet-webform-egitim-videosu-serisi/)
+	
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
