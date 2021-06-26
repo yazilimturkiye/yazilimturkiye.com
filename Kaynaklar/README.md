@@ -56,6 +56,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b>[Yazılım Türkiye Toplulugu Üyeleri](https://t.me/yazilimturkiye)</b>
 - <b>[Fikret YALÇIN](https://github.com/fikretyn)</b>
 	- 📁 Doküman : [Android Studio Dersleri](https://mega.nz/file/b5Fh0SpK#DktDT1wTlz8KuBYO-sSPF1CrqS21bTbUrpzNzRkBNxE)
+	- 📁 Doküman : [Algoritma ve Programlama Giriş](https://mega.nz/file/L1UzEAzJ#HwrHDA6myIk5iLQTGDEdbArZRuVhYKqg1mv_q5RHkMU)
 - <b>[Türkçe Kaynaklar](https://turkcekaynaklar.com/)</b>
 - <b></b>
 - <b></b>
