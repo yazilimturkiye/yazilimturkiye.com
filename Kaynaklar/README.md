@@ -27,7 +27,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Flutter ile Uygulama Geliştirme Kursu | Android & IOS](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
 	- 📺 Kurs : [Android Mobil Uygulama Geliştirme Eğitimi | Kotlin](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-kotlin/)
 ---
-- <b>ANGULAR</b> 
+- <b>ANGULAR</b>
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Angular Türkçe Dersler ve Makaleler](https://github.com/MehmetSert/Angular-Turkce-Makaleler)
 	- 📺 Kurs : [Angular 9 Best Practices(En iyi teknikler)](https://www.udemy.com/course/angular-9-best-practices-en-iyi-teknikler/)
@@ -35,7 +35,6 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Davud Hoca ile Angular JS](https://www.udemy.com/course/angularjs-egitim-seti/)
 	- 📺 Kurs : [AngularJS Sıfırdan Kapsamlı Eğitim Seti](https://www.udemy.com/course/bidoluyazilim_angularjs_egitim_seti/)
 	- 📺 Kurs : [HTML | CSS | JavaScript | JQuery | AngularJS Örnek Uygulama](https://www.udemy.com/course/bidoluyazilim_ornek_uygulamalar/)
-
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Angular Dersleri:Sıfırdan Uygulamalı Projelerle Öğren](https://www.udemy.com/course/angular-dersleri/)
 	- 📺 Kurs : [Angular 8 | 9 ile adım adım blog sitesi (25 saat)](https://www.udemy.com/course/angular-ile-adim-adim-blog-sitesi-single-page-application/)
@@ -54,6 +53,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
+- <b>[Yazılım Türkiye Toplulugu Üyeleri](https://t.me/yazilimturkiye)</b>
 - <b>[Fikret YALÇIN](https://github.com/fikretyn)</b>
 	- 📁 Doküman : [Android Studio Dersleri](https://mega.nz/file/b5Fh0SpK#DktDT1wTlz8KuBYO-sSPF1CrqS21bTbUrpzNzRkBNxE)
 - <b>[Türkçe Kaynaklar](https://turkcekaynaklar.com/)</b>
