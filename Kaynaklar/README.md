@@ -5,6 +5,17 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 ---
+- <b>ALGORİTMA</b>
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Kurs : [BTKAkademi](https://www.btkakademi.gov.tr/portal/course/algoritma-tasar-m--5092#!/about)
+	- 📺 Kurs: [İsmek](https://uzaktanegitim.ismek.istanbul/algoritma-ve-programlamaya-giris-s-23)
+	- 📺 Kurs : [Yazılıma İlk Adım : Akış Diyagramları Eğitimi](https://www.udemy.com/course/yazilima-ilk-adim-akis-diyagramlari/)
+	- 📺 Kurs : [Algoritma ve Programlama Mantığı Eğitimi](https://www.udemy.com/course/algoritma-ve-programlama-mantg-egitimi/)
+	- 📁 Doküman : [Algoritma ve Programlama Giriş](https://mega.nz/file/L1UzEAzJ#HwrHDA6myIk5iLQTGDEdbArZRuVhYKqg1mv_q5RHkMU)
+	- 📺 Video : [Algoritma ve Programlama Dersleri](https://www.youtube.com/watch?v=40Ip2UkpJDc&list=PLKnjBHu2xXNNiJdlhiEl_RMkK0PbJ1_DB)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Algoritma Geliştirme ve Programlamaya Giriş](https://www.udemy.com/course/algoritmagelistirme/)
+---
 - <b>ANDROİD</b>
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [MobilHanem](https://www.mobilhanem.com/)
