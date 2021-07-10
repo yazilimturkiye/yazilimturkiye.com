@@ -5,7 +5,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 ---
-- <b>ALGORİTMA</b>
+<b>ALGORİTMA</b>
 - <b>Ücretsiz Kaynaklar</b>
 	- 📺 Kurs : [BTKAkademi](https://www.btkakademi.gov.tr/portal/course/algoritma-tasar-m--5092#!/about)
 	- 📺 Kurs: [İsmek](https://uzaktanegitim.ismek.istanbul/algoritma-ve-programlamaya-giris-s-23)
@@ -16,7 +16,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Algoritma Geliştirme ve Programlamaya Giriş](https://www.udemy.com/course/algoritmagelistirme/)
 ---
-- <b>ANDROİD</b>
+<b>ANDROİD</b>
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [MobilHanem](https://www.mobilhanem.com/)
 	- 📁 Doküman : [Android Studio Dersleri](https://mega.nz/file/b5Fh0SpK#DktDT1wTlz8KuBYO-sSPF1CrqS21bTbUrpzNzRkBNxE)
@@ -27,7 +27,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Flutter ile Uygulama Geliştirme Kursu | Android & IOS](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
 	- 📺 Kurs : [Android Mobil Uygulama Geliştirme Eğitimi | Kotlin](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-kotlin/)
 ---
-- <b>ANGULAR</b>
+<b>ANGULAR</b>
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Angular Türkçe Dersler ve Makaleler](https://github.com/MehmetSert/Angular-Turkce-Makaleler)
 	- 📺 Kurs : [Angular 9 Best Practices(En iyi teknikler)](https://www.udemy.com/course/angular-9-best-practices-en-iyi-teknikler/)
@@ -40,7 +40,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Angular 8 | 9 ile adım adım blog sitesi (25 saat)](https://www.udemy.com/course/angular-ile-adim-adim-blog-sitesi-single-page-application/)
 	- 📺 Kurs : [(110+ Saat) Komple Uygulamalı Web Geliştirme Eğitimi](https://www.udemy.com/course/komple-web-developer-kursu/)
 ---
-- <b>ASP.NET</b> 
+<b>ASP.NET</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- Web Sitesi : [Btdersleri](https://www.btdersleri.com/)
 	- 📺 Video : [Asp.Net ile Okul Projesi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49bsuq6iLrg1qyZtekSCgPW)
@@ -50,7 +50,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Asp.Net ile Cv Sitesi ve Film & Dizi Yorum Sitesi Projeleri](https://www.udemy.com/course/aspnet-bootstrap-ile-adim-adim-blog-sitesi-gelistirme/)
 	- 📺 Kurs : [ASP.NET Webform Eğitim Videosu Serisi](https://www.udemy.com/course/aspnet-webform-egitim-videosu-serisi/)
 ---
-- <b>ARDUNİO</b> 
+<b>ARDUNİO</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Mobilhanem](https://www.mobilhanem.com/arduino-egitimleri/)
 	- 🌍 Web Sitesi : [Azkod](https://www.azkod.com/arduino)
@@ -60,6 +60,19 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Arduino ile Robotik Kodlama Başlangıç Eğitimi (15 Proje )](https://www.udemy.com/course/robotik-kodlama-egitimi/)
 	- 📺 Kurs : [A'dan Z'ye Arduino Dersleri ve Robotik Kodlama Projeleri](https://www.udemy.com/course/arduinodersleri/)
+---
+<b>C</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [CDersleri](https://www.cdersleri.com/)
+	- 📺 Video : [C Programlama Dersleri](https://www.youtube.com/watch?v=naWZ2xVuF30&list=PLIHume2cwmHdFsJRo5oYG7yQ4NyUx43ql)
+	- 📺 Video : [60 Derste C ile Programlamaya Giriş](https://www.youtube.com/watch?v=eIChume5VWQ&list=PLKnjBHu2xXNP-E_TjR-g5Tslm6dW4UH_3)
+	- 📺 Video : [C Programlama Dili](https://www.youtube.com/watch?v=FtaKEn2f2qI&list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i&index=1)
+	- 📺 Kurs : [Baştan sona C Programlama eğitimi](https://www.udemy.com/course/bastan-sona-c-programlama-egitimi/)
+	- 📺 Kurs : [Sıfırdan C Programlama Öğrenin](https://www.udemy.com/course/sifirdan-c-programlama-ogrenin/)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [C | Sıfırdan İleri Seviyeye Komple C Programlama](https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-c-programlama-kursu/)
+	- 📺 Kurs : [Sıfırdan İleri Seviyeye C Programlama(+100 Algoritma)](https://www.udemy.com/course/orneklerle-c-nesne-tabanl-programlama100-algoritma/)
+	- 📺 Kurs : [(25+Saat) C |Sıfırdan İleri Seviyeye Uygulamalı Programlama](https://www.udemy.com/course/25saat-c-sifirdan-ileri-seviyeye-uygulamali-programlama/)
 ---
 
 # Katkıda Bulunanlar 📁
