@@ -74,6 +74,17 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Sıfırdan İleri Seviyeye C Programlama(+100 Algoritma)](https://www.udemy.com/course/orneklerle-c-nesne-tabanl-programlama100-algoritma/)
 	- 📺 Kurs : [(25+Saat) C |Sıfırdan İleri Seviyeye Uygulamalı Programlama](https://www.udemy.com/course/25saat-c-sifirdan-ileri-seviyeye-uygulamali-programlama/)
 ---
+<b>C++</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Yusufsezer](https://www.yusufsezer.com.tr/cpp-dersleri/)
+	- 📺 Video : [C++ Dersleri](https://www.youtube.com/watch?v=UpQdjipl2OE&list=PLIHume2cwmHfmSmNlxXw1j9ZAKzYyiQAq)
+	- 📺 Kurs : [Sıfırdan C++ Eğitimi](https://www.udemy.com/course/sifirdan-cpp-egitimi/)
+	- 📺 Kurs : [Baştan sona C++ Programlama eğitimi](https://www.udemy.com/course/bastan-sona-cpp-programlama-egitimi/)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Sıfırdan C++ ve Programlama Öğrenin!](https://www.udemy.com/course/c-ve-programlama-kursu/)
+	- 📺 Kurs : [C++ | Sıfırdan İleri Seviyeye C++ Nesneye Yönelik Programlama](https://www.udemy.com/course/cpluspusprogramlama_nesneyeyonelikprogramlama/)
+	- 📺 Kurs : [C++ | Sıfırdan Komple Uygulamalı Nesneye Yönelik Programlama](https://www.udemy.com/course/sifirdan-komple-uygulamali-nesneye-yonelik-programlama/)
+---
 
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
