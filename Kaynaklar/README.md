@@ -85,6 +85,21 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [C++ | Sıfırdan İleri Seviyeye C++ Nesneye Yönelik Programlama](https://www.udemy.com/course/cpluspusprogramlama_nesneyeyonelikprogramlama/)
 	- 📺 Kurs : [C++ | Sıfırdan Komple Uygulamalı Nesneye Yönelik Programlama](https://www.udemy.com/course/sifirdan-komple-uygulamali-nesneye-yonelik-programlama/)
 ---
+<b>C#</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [YazilimKodlama](https://www.yazilimkodlama.com/programlama/c-dersleri/)
+	- 📺 Video : [Murat Yücedağ Videoları](https://www.youtube.com/user/YazilimHerYerde/playlists)
+	- 📺 Video : [C# Eğitim Videoları](https://www.youtube.com/watch?v=5T6XQarpXgQ&list=PLh9ECzBB8tJNnowfMHINA00u8cJboZzNt)
+	- 📺 Video : [C# Dersleri](https://www.youtube.com/watch?v=2EkMrrX9sYY&list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD)
+	- 📺 Kurs : [C# Öğrenin](https://www.udemy.com/course/csharp-egitim-seti/)
+	- 📺 Kurs : [C# programlama dili ile Temel Programlama Eğitimi](https://www.udemy.com/course/c-sharp-programlama-dili-ile-temel-programlama-egitimi/)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti](https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/)
+	- 📺 Kurs : [C# Programlama Dili : Temel, Orta, İleri Seviye](https://www.udemy.com/course/csharp-programlama-dili/)
+	- 📺 Kurs : [C# Kursu: Yeni Başlayanlar için C# Programlama Dersleri](https://www.udemy.com/course/komple-uygulamali-programlama-egitimi-yeni-baslayanlar/)
+	- 📺 Kurs : [C# ve SQL| Sıfırdan C# ile Nesneye Yönelik Programlama | C#](https://www.udemy.com/course/c-sharp-programlama-dili-ile-nesneye-yonelik-programlama/)
+	- 📺 Kurs : [C# OOP Kamp: Nesne Tabanlı Programlamayı Sıfırdan Öğrenin](https://www.udemy.com/course/c-oop-kamp-nesne-tabanl-programlamay-sfrdan-ogrenin/)
+---
 
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
