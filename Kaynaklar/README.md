@@ -124,6 +124,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b>[Fikret YALÇIN](https://github.com/fikretyn)</b>
 	- 📁 Doküman : [Android Studio Dersleri](https://mega.nz/file/b5Fh0SpK#DktDT1wTlz8KuBYO-sSPF1CrqS21bTbUrpzNzRkBNxE)
 	- 📁 Doküman : [Algoritma ve Programlama Giriş](https://mega.nz/file/L1UzEAzJ#HwrHDA6myIk5iLQTGDEdbArZRuVhYKqg1mv_q5RHkMU)
+	- 📁 Doküman : [CSS Dersleri](https://mega.nz/file/nx82HLDa#tBg3fL1ft2izUwONMPuENqfSN3uQoB02n7jW3jzrpcs)
 - <b>[Türkçe Kaynaklar](https://turkcekaynaklar.com/)</b>
 - <b></b>
 - <b></b>
