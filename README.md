@@ -6,6 +6,6 @@
 
 ## Neler Yapıyoruz?
 
-* Yazılımcılar için öğretici ve yol gösterici makaleler yayımlanıyor.
+* Yazılımcılar için öğretici ve yol gösterici <b>[makaleler](https://www.yazilimturkiye.com/yazilar/)</b> yayımlanıyor.
 * Ücretli ve ücretsiz önerdiğimiz tüm <b>[Türkçe kaynakları](https://github.com/yazilimturkiye/yazilimturkiye.com/tree/main/Kaynaklar)</b> listeleyip paylaşıyoruz.
-* Github hesabımız üzerinden yazılım geliştiriyoruz.
+* <b>[Github](https://github.com/yazilimturkiye)</b> hesabımız üzerinden yazılım geliştiriyoruz.
