@@ -125,6 +125,17 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Dart Programlama Dili Dersleri](https://www.udemy.com/course/dart-programlama-dili-dersleri/)
 	- 📺 Kurs : [Flutter & Dart: Sıfırdan Mobil App Geliştiriciliğine](https://www.udemy.com/course/flutter-dart-sifirdan-mobil-app-gelistiriciligine/)
 	- 📺 Kurs : [Flutter ile Uygulama Geliştirme Kursu | Android & IOS | 2021](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
+---
+<b>Derin Öğrenme</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Deep Learning Türkiye](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
+	- 📺 Kurs : [(1/2) Derin Öğrenmeye Giriş | MIT Müfredatıyla](https://www.udemy.com/course/derin-ogrenmeye-giris-1-mit-mufredatyla/)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Deep Learning A-Z™| Python ile Derin Öğrenme](https://www.udemy.com/course/derin-ogrenmeye-giris/)
+	- 📺 Kurs : [Deep Learning ve Python: A'dan Z'ye Derin Öğrenme (5)](https://www.udemy.com/course/deep-learning-ve-python-adan-zye-derin-ogrenme-5/)
+	- 📺 Kurs : [Deep Learning ve Python: İleri Seviye Derin Öğrenme (5.1)](https://www.udemy.com/course/deep-learning-ve-python-ileri-seviye-derin-ogrenme-52/)
+	- 📺 Kurs : [Python ve Derin Öğrenme: Pytorch ile Derin Öğrenme (5.3)](https://www.udemy.com/course/python-ve-derin-ogrenme-pytorch-ile-derin-ogrenme-53/)
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
