@@ -136,6 +136,20 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Deep Learning ve Python: A'dan Z'ye Derin Öğrenme (5)](https://www.udemy.com/course/deep-learning-ve-python-adan-zye-derin-ogrenme-5/)
 	- 📺 Kurs : [Deep Learning ve Python: İleri Seviye Derin Öğrenme (5.1)](https://www.udemy.com/course/deep-learning-ve-python-ileri-seviye-derin-ogrenme-52/)
 	- 📺 Kurs : [Python ve Derin Öğrenme: Pytorch ile Derin Öğrenme (5.3)](https://www.udemy.com/course/python-ve-derin-ogrenme-pytorch-ile-derin-ogrenme-53/)
+---
+<b>Django</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Video : [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh)
+	- 📺 Video : [Django Uygulamasını Yayına Alma](https://www.youtube.com/playlist?list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o)
+	- 📺 Video : [Django Eğitim Seti](https://www.youtube.com/playlist?list=PLADEzZRbuZOYMU5ooc6uRLiJYTzfdP_1U)
+	- 📺 Kurs : [Python - Django ile Web Geliştirme Eğitimi(Todo App)-1.Bölüm](https://www.udemy.com/course/python-django-ile-web-uygulama-gelistirme-egitimi/)
+	- 📺 Kurs : [Python - Django ile Web Geliştirme Eğitimi(Todo App)-2.Bölüm](https://www.udemy.com/course/python-django-ile-web-uygulama-gelistirme-egitimi-kursu/)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Python ve Django ile Sıfırdan Web Geliştirme Kursu](https://www.udemy.com/course/django-kursu/)
+	- 📺 Kurs : [Django A-Z™ | Sıfırdan Web Programlam](https://www.udemy.com/course/django-egitimi/)
+
+
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
