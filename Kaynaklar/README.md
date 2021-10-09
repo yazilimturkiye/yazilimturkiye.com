@@ -148,6 +148,18 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Python ve Django ile Sıfırdan Web Geliştirme Kursu](https://www.udemy.com/course/django-kursu/)
 	- 📺 Kurs : [Django A-Z™ | Sıfırdan Web Programlam](https://www.udemy.com/course/django-egitimi/)
+---
+<b>Flutter</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Video : [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/playlist?list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
+	- 📺 Video : [Flutter Eğitim Serisi](https://www.youtube.com/playlist?list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK)
+	- 🌍 Web Sitesi : : [MobilHanem](https://www.mobilhanem.com/flutter-egitimi/)
+	- 📺 Kurs : [Google Flutter İle Mobil Uygulama Kursu](https://www.btkakademi.gov.tr/portal/course/google-flutter-ile-mobil-uygulama-kursu-10150#!/about)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Sıfırdan Flutter ile Android ve Ios Apps Development](https://www.udemy.com/course/sifirdan-flutter-ile-android-ve-ios-apps-development/)
+	- 📺 Kurs : [Flutter ile Uygulama Geliştirme Kursu | Android & IOS |](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
+	- 📺 Kurs : [0'dan İleri Seviyeye Tam Paket Dart+Flutter+Firebase Eğitimi](https://www.udemy.com/course/flutterdersleri/)
 
 
 # Katkıda Bulunanlar 📁
