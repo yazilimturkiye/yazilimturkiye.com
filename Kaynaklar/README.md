@@ -160,7 +160,18 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Sıfırdan Flutter ile Android ve Ios Apps Development](https://www.udemy.com/course/sifirdan-flutter-ile-android-ve-ios-apps-development/)
 	- 📺 Kurs : [Flutter ile Uygulama Geliştirme Kursu | Android & IOS |](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
 	- 📺 Kurs : [0'dan İleri Seviyeye Tam Paket Dart+Flutter+Firebase Eğitimi](https://www.udemy.com/course/flutterdersleri/)
+---
+<b>Git</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Video : [Git, GitHub ve GitLab Kullanımı](https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy)
+	- 📺 Video : [Yeni Başlayanlar İçin Git Dersleri](https://www.youtube.com/watch?v=qErVX17vbzU&list=PL_Z0TaFYSF3IqQKPOmbigAOVMMlZ2yU4K)
+	- 📺 Kurs : [Git komutları Eğitimi](https://www.udemy.com/course/git-komutlari-kursu/)
 
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Sourcetree ile Git ve GitHub Kullanımı](https://www.udemy.com/course/sourcetree-ile-git-ve-github-kullanimi/)
+	- 📺 Kurs : [Profesyonel Git ve Github](https://www.udemy.com/course/profesyonel-git-ve-github/)
+	- 📺 Kurs : [Sıfırdan İleri Seviye GİT (GitHub, GitLab, Bitbucket)](https://www.udemy.com/course/sfrdan-ileri-seviye-git-github-gitlab-bitbucket/)
+---
 
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
