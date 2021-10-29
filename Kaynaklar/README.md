@@ -172,7 +172,18 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Profesyonel Git ve Github](https://www.udemy.com/course/profesyonel-git-ve-github/)
 	- 📺 Kurs : [Sıfırdan İleri Seviye GİT (GitHub, GitLab, Bitbucket)](https://www.udemy.com/course/sfrdan-ileri-seviye-git-github-gitlab-bitbucket/)
 ---
+<b>GO</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Video : [Yeni Başlayanlar İçin GO(LANG)](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa)
+	- 📺 Video : [Golang Dersleri](https://www.youtube.com/playlist?list=PLfCVAl3pRAFgmuToYPlkSszL3ygoVQDmE)
+	- 📺 Video : [Go Dersleri](https://www.youtube.com/playlist?list=PLvg2WKrbLCKZfP4tRSWpnZsr5OI3FORdk)
+	- 📺 Kurs : [Go Programlama Dili Temelleri](https://www.udemy.com/course/go-programlama-dili-temelleri/)
 
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Go Programlama Dili](https://www.udemy.com/course/go-programlama-dili/)
+	- 📺 Kurs : [Go ile RESTful API Programlama](https://www.udemy.com/course/golang-restful-api-programlama/)
+	- 📺 Kurs : [Sıfırdan Go (Golang) Programlama Dili ve MySQL Öğrenin](https://www.udemy.com/course/golang-ile-programlamaya-giris/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
