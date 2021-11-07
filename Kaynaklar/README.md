@@ -184,6 +184,21 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Go ile RESTful API Programlama](https://www.udemy.com/course/golang-restful-api-programlama/)
 	- 📺 Kurs : [Sıfırdan Go (Golang) Programlama Dili ve MySQL Öğrenin](https://www.udemy.com/course/golang-ile-programlamaya-giris/)
 ---
+<b>HTML</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Video : [1 Videoda HTML Öğren [Web Geliştirme Eğitimi]](https://www.youtube.com/watch?v=sUWEuDSD7bE)
+	- 📺 Video : [1 Videoda HTML, CSS, Flexbox, Responsive Tasarım [Web Geliştirme Eğitimi]](https://www.youtube.com/watch?v=y745R3Lv9WI)
+	- 📺 Kurs : [Bir Saatte Html Öğren](https://www.udemy.com/course/1-saatte-html-ogren/)
+	- 📺 Kurs : [HTML5 ve CSS3](https://www.udemy.com/course/html5-css3-html5-css3-html5-css3-html5-css3-html5-css3-html5-css3-html/)
+	- 📺 Kurs : [Sıfırdan HTML, HTML 5 Öğrenin](https://www.udemy.com/course/sifirdan-ileri-seviye-php-pdo-e-ticaret-web-sitesi-yapma/)
+	- 📺 Kurs : [HTML5 ile Web Geliştirme](https://www.btkakademi.gov.tr/portal/course/html5-ile-web-gelistirme-13200#!/about)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Sıfırdan İleri Düzey Web Geliştirme (HTML, CSS, Javascript)](https://www.udemy.com/course/sifirdan-ileri-duzey-web-programlama-html-css-javascript/)
+	- 📺 Kurs : [HTML ve CSS ile Kurumsal Site + Blog Sitesi Geliştirme](https://www.udemy.com/course/html5-ve-css3-ile-web-gelistirme/)
+	- 📺 Kurs : [Temel Düzeyde HTML ve HTML5 Eğitimi](https://www.udemy.com/course/temel-duzeyde-html-ve-html5-egitimi/)
+	- 📺 Kurs : [Sıfırdan HTML5 ve CSS3 Kursu](https://www.udemy.com/course/sifirdan-orneklerle-html5-ve-css3-kursu/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
