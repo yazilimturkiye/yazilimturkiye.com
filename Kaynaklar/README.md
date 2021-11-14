@@ -199,6 +199,15 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Temel Düzeyde HTML ve HTML5 Eğitimi](https://www.udemy.com/course/temel-duzeyde-html-ve-html5-egitimi/)
 	- 📺 Kurs : [Sıfırdan HTML5 ve CSS3 Kursu](https://www.udemy.com/course/sifirdan-orneklerle-html5-ve-css3-kursu/)
 ---
+<b>İONİC</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Video : [İonic 3'ü Gerçek Projeden Öğrenin - Meditasyon Uygulaması](https://www.youtube.com/watch?v=XIRbID9P-xI&list=PLrWGe5fM0LZ5haOYb8wo5pxmrbjchGScJ)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Ionic 4-Firebase-Uploadcare ile Mobil Uygulama Oluşturalım](https://www.udemy.com/course/ionic-4-firebase-uploadcare-ile-mobil-uygulama-olusturalm/)
+	- 📺 Kurs : [Sıfırdan Ionic 3 Hybrid Uygulama Geliştirme - Typescript](https://www.udemy.com/course/sifirdan-ionic-3-mobile-uygulama-gelistirime-typescript/)
+	- 📺 Kurs : [IONIC ve VUE 3 ile Mobil Uygulama Geliştirme Kursu [2021]](https://www.udemy.com/course/ionic-ve-vue-3-ile-mobil-uygulama-gelistirme-kursu-2021/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
