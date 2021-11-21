@@ -208,6 +208,24 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Sıfırdan Ionic 3 Hybrid Uygulama Geliştirme - Typescript](https://www.udemy.com/course/sifirdan-ionic-3-mobile-uygulama-gelistirime-typescript/)
 	- 📺 Kurs : [IONIC ve VUE 3 ile Mobil Uygulama Geliştirme Kursu [2021]](https://www.udemy.com/course/ionic-ve-vue-3-ile-mobil-uygulama-gelistirme-kursu-2021/)
 ---
+<b>JAVA</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 1](https://mega.nz/file/ToUxiAIK#ecX8o89iExDOOqThh3KPVKC-WqyIhe7OW7zkRU5VT6g)
+	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 2](https://mega.nz/file/ilEHAIQY#4mVy9K8NYjq0Qpzk88L8SKnXaJ28EHJgks2xKYjbfco)
+	- 📺 Video : [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W)
+	- 📺 Video : [Java Programlama](https://www.youtube.com/playlist?list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I)
+	- 📺 Video : [Java, Programlamaya Giriş](https://www.youtube.com/playlist?list=PLh9ECzBB8tJNWhY-uH1RrvAFI88vC-Snh)
+	- 📺 Video : [6 Saatlik JAVA Programlama Kampı / Dersleri](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8)
+	- 📺 Kurs : [Java İle Nesne Tabanlı Programlama Temelleri](https://www.udemy.com/course/java-ile-nesne-tabanl-programlama-temelleri/)
+	- 📺 Kurs : [Java ile Programlama ve OOP Mantığı](https://www.udemy.com/course/java-ile-programlama/)
+	- 📺 Kurs : [2 Saatte Java Temellerine Hakim Olun!](https://www.udemy.com/course/2-saatte-java-temellerine-hakim-olun/)
+	- 📺 Kurs : [Java ile Programlamaya Giriş 1](https://www.udemy.com/course/java-ile-programlamaya-giris-1/)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [(42 Saat) Sıfırdan Komple Java Geliştirici Kursu](https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-java-gelistirici-kursu/)
+	- 📺 Kurs : [Başlangıç Seviyesinden Profesyonel Seviyeye Java Kursu](https://www.udemy.com/course/baslangc-seviyesinden-profesyonel-seviyeye-java-kursu2020/)
+	- 📺 Kurs : [Java ile Nesne-Merkezli Programlamaya Giriş](https://www.udemy.com/course/java-ile-nesne-merkezli-programlamaya-giris/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
@@ -216,6 +234,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📁 Doküman : [Android Studio Dersleri](https://mega.nz/file/b5Fh0SpK#DktDT1wTlz8KuBYO-sSPF1CrqS21bTbUrpzNzRkBNxE)
 	- 📁 Doküman : [Algoritma ve Programlama Giriş](https://mega.nz/file/L1UzEAzJ#HwrHDA6myIk5iLQTGDEdbArZRuVhYKqg1mv_q5RHkMU)
 	- 📁 Doküman : [CSS Dersleri](https://mega.nz/file/nx82HLDa#tBg3fL1ft2izUwONMPuENqfSN3uQoB02n7jW3jzrpcs)
+	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 1](https://mega.nz/file/ToUxiAIK#ecX8o89iExDOOqThh3KPVKC-WqyIhe7OW7zkRU5VT6g)
+	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 2](https://mega.nz/file/ilEHAIQY#4mVy9K8NYjq0Qpzk88L8SKnXaJ28EHJgks2xKYjbfco)
 - <b>[Türkçe Kaynaklar](https://turkcekaynaklar.com/)</b>
 - <b></b>
 - <b></b>
