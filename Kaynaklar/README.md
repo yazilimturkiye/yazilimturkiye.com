@@ -153,7 +153,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b>Ücretsiz Kaynaklar</b>
 	- 📺 Video : [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/playlist?list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
 	- 📺 Video : [Flutter Eğitim Serisi](https://www.youtube.com/playlist?list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK)
-	- 🌍 Web Sitesi : : [MobilHanem](https://www.mobilhanem.com/flutter-egitimi/)
+	- 🌍 Web Sitesi : [MobilHanem](https://www.mobilhanem.com/flutter-egitimi/)
 	- 📺 Kurs : [Google Flutter İle Mobil Uygulama Kursu](https://www.btkakademi.gov.tr/portal/course/google-flutter-ile-mobil-uygulama-kursu-10150#!/about)
 
 - <b>Ücretli Kaynaklar</b>
@@ -225,6 +225,24 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [(42 Saat) Sıfırdan Komple Java Geliştirici Kursu](https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-java-gelistirici-kursu/)
 	- 📺 Kurs : [Başlangıç Seviyesinden Profesyonel Seviyeye Java Kursu](https://www.udemy.com/course/baslangc-seviyesinden-profesyonel-seviyeye-java-kursu2020/)
 	- 📺 Kurs : [Java ile Nesne-Merkezli Programlamaya Giriş](https://www.udemy.com/course/java-ile-nesne-merkezli-programlamaya-giris/)
+---
+<b>JAVASCRİPT</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/javascript-dersleri/)
+	- 📁 Doküman : [Simple Javascript](https://mega.nz/file/X10G1CZZ#KlQ2I-3TfT-JlapHcf1-c8nnqeaABN9L9Hw30hOnLts)
+	- 📁 Doküman : [Javascript](https://mega.nz/file/ys0k1SqA#duYBTB84rDO9tCV5NT_dcB4NdcsG-xgeDJpIrg4JT2E)
+	- 📺 Video : [1 Videoda Javascript Temellerini Öğrenin](https://www.youtube.com/watch?v=-ei7CLxoOVU)
+	- 📺 Video : [1 Video' da Javascript Dersleri ile Javascript Programlama](https://www.youtube.com/watch?v=hHwxdPIUUBo)
+	- 📺 Video : [Yakın Kampüs - Javascript Ders 1 - Javascript'e Giriş](https://www.youtube.com/playlist?list=PLWctyKyPphPj2KD1CTuBa_xjK8zjRS9jX)
+	- 📺 Video : [JavaScript Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZV-3dYw1LUEF3WaaXzwS9nO)
+	- 📺 Kurs : [Sıfırdan ileri seviyeye javascript](https://www.btkakademi.gov.tr/portal/course/javascript-8099#!/about)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Sıfırdan İleri Seviye Modern Javascript Dersleri ES7+](https://www.udemy.com/course/modern-javascript-kursu/)
+	- 📺 Kurs : [JavaScript: Sıfırdan Javascript Kursu ile JavaScript Öğrenin](https://www.udemy.com/course/javascript-sfrdan-javascript-kursu-ile-javascript-ogrenin/)
+	- 📺 Kurs : [Javascript Programlama Eğitimi](https://www.udemy.com/course/sfrdan-ileri-seviye-projelerle-javascript-kursu/)
+	- 📺 Kurs : [Sıfırdan İleri Düzey Web Geliştirme (HTML, CSS, Javascript)](https://www.udemy.com/course/sifirdan-ileri-duzey-web-programlama-html-css-javascript/)
+	- 📺 Kurs : [Komple Sıfırdan Adım Adım Javascript Öğrenin](https://www.udemy.com/course/komple-sifirdan-adim-adim-javascript-ogrenin/)
 ---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
