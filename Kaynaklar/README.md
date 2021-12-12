@@ -244,6 +244,20 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Sıfırdan İleri Düzey Web Geliştirme (HTML, CSS, Javascript)](https://www.udemy.com/course/sifirdan-ileri-duzey-web-programlama-html-css-javascript/)
 	- 📺 Kurs : [Komple Sıfırdan Adım Adım Javascript Öğrenin](https://www.udemy.com/course/komple-sifirdan-adim-adim-javascript-ogrenin/)
 ---
+<b>KOTLİN</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Mobilhanem](https://www.mobilhanem.com/kotlin-egitimleri/)
+	- 📺 Video : [Kotlin Eğitim Seti](https://www.youtube.com/playlist?list=PLueFkQL21d3j-KHr6LY07mFTtv0O-pTY-)
+	- 📺 Video : [Kotlin Programlama Eğitim Seti](https://www.youtube.com/playlist?list=PLygmmAP2v9CUy4OMJvyD-5jHZgD66BOMR)
+	- 📺 Kurs : [Android Geliştiriciler İçin Kotlin Kursu](https://www.udemy.com/course/android-gelistiriciler-icin-kotlin-kursu/)
+	- 📺 Kurs : [Android Studio ile Mobil Uygulama Geliştirme (Başlangıç)](https://www.udemy.com/course/android-studio-ile-mobil-uygulama-gelistirme-baslangc/)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Android Mobil Uygulama Geliştirme Eğitimi | Kotlin | 2021](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-kotlin/)
+	- 📺 Kurs : [Kotlin ile Android Mobil Uygulama Geliştirme Kursu](https://www.udemy.com/course/sifirdan-ileri-seviyeye-kotlin-ve-android-kursu/)
+	- 📺 Kurs : [Android Mobil Uygulama Kursu: Kotlin & Java](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)
+	- 📺 Kurs : [Kotlin Programlama Eğitimi](https://www.udemy.com/course/kotlin-programlama-egitimi/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
