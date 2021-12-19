@@ -258,6 +258,20 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Android Mobil Uygulama Kursu: Kotlin & Java](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)
 	- 📺 Kurs : [Kotlin Programlama Eğitimi](https://www.udemy.com/course/kotlin-programlama-egitimi/)
 ---
+<b>MAKİNE ÖĞRENMESİ</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Video : [Makine Öğrenmesine Giriş](https://www.youtube.com/playlist?list=PLlHW_nnK3v5hlnKAsAUToYFCHYGBsR_6a)
+	- 📺 Video : [Python ile Makine Öğrenmesi Dersleri | Komple Kurs ](https://www.youtube.com/playlist?list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF)
+	- 📺 Video : [Makine Öğrenmesi](https://www.youtube.com/playlist?list=PL3EFm54Q_263kz-ynwXW2p1WOkbcx9vS3)
+	- 📺 Kurs : [Makine Öğrenmesi Regresyon Algoritmaları](https://www.udemy.com/course/makine-ogrenmesi-regresyon/)
+	- 📺 Kurs : [Makine Öğrenmesi Sınıflandırma Algoritmaları](https://www.udemy.com/course/makine-ogrenmesi-siniflandirma-algoritmalari/)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [(50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning](https://www.udemy.com/course/python-egitimi/)
+	- 📺 Kurs : [Machine Learning | Python ile Makine Öğrenmesi](https://www.udemy.com/course/machine-learning-python-ile-makine-ogrenmesi/)
+	- 📺 Kurs : [Python ile Makine Öğrenmesi (Machine Learning)](https://www.udemy.com/course/python-ile-makine-ogrenmesi/)
+	- 📺 Kurs : [Python ile Makine Öğrenmesi](https://www.udemy.com/course/makine-ogrenmesi/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
