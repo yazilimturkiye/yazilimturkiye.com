@@ -272,6 +272,24 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Python ile Makine Öğrenmesi (Machine Learning)](https://www.udemy.com/course/python-ile-makine-ogrenmesi/)
 	- 📺 Kurs : [Python ile Makine Öğrenmesi](https://www.udemy.com/course/makine-ogrenmesi/)
 ---
+<b>MATLAB</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Video : [1,5 SAATTE SIFIRDAN MATLAB ÖĞREN | Vektör, Matris, 2D & 3D Grafik Çizme](https://www.youtube.com/watch?v=I3BNo0YlXsg)
+	- 📺 Video : [Matlab Dersleri - Matlab Eğitim Videoları](https://www.youtube.com/playlist?list=PLdcoZed79ZudlbNBRG9f3IliMjDXNC6hd)
+	- 📺 Video : [MATLAB Dersleri](https://www.youtube.com/playlist?list=PLyIEwiklim9jD3zMsxXnjgjP7wq74Xrg-)
+	- 📺 Kurs : [Mühendislik Öğrencileri İçin Matlab](https://www.udemy.com/course/matlabber/)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Uygulamalarla MATLAB Eğitim Seti](https://www.udemy.com/course/uygulamalarla-matlab-egitim-seti/)
+	- 📺 Kurs : [MATLAB : Sıfırdan Uygulamalı Eğitim Seti A-Z™](https://www.udemy.com/course/matlab-egitim/)
+	- 📺 Kurs : [Dijital Sinyal İşlemenin Temelleri ve Matlab Uygulamaları](https://www.udemy.com/course/dijital-sinyal-islemenin-temelleri-ve-matlab-uygulamalar/)
+---
+<b>MONGODB</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/mongodb-dersleri/)
+	- 📺 Video : [Mongo DB - NoSQL](https://www.youtube.com/playlist?list=PLXGR42frWa8TP4T_MccK_B2_sKxGqbCFr)
+	- 📺 Video : [Yeni Başlayanlar İçin MongoDB (70 Dakika)](https://www.youtube.com/watch?v=ZMgs0wSsfUk)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
