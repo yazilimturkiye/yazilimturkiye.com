@@ -290,6 +290,18 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Video : [Mongo DB - NoSQL](https://www.youtube.com/playlist?list=PLXGR42frWa8TP4T_MccK_B2_sKxGqbCFr)
 	- 📺 Video : [Yeni Başlayanlar İçin MongoDB (70 Dakika)](https://www.youtube.com/watch?v=ZMgs0wSsfUk)
 ---
+<b>NODE.JS</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/node-js-dersleri/)
+	- 📺 Video : [Node js Dersleri](https://www.youtube.com/playlist?list=PLDUOF2Be-kzm_8UxwfY0pKQqwPR5TOs0X)
+	- 📺 Video : [1 VİDEODA NODE.JS VE NPM - Engin Demiroğ](https://www.youtube.com/watch?v=Gb6h5Up_jO0)
+	- 📺 Kurs : [Yeni Başlayanlar İçin Node.js - Express.js - MongoDB](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq8QPLj2UDB-GAtQvBaCBG4D)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Sıfırdan Her Yönüyle JavaScript & Node.JS](https://www.udemy.com/course/nodejs-egitimi/)
+	- 📺 Kurs : [Node.js Eğitimi - Sıfırdan Profesyonele NodeJs ve Javascript](https://www.udemy.com/course/nodejs-egitimi-sifirdan-profesyonele/)
+	- 📺 Kurs : [Node JS & Javascript: A'dan Z'ye Tüm Yönleriyle](https://www.udemy.com/course/node-js/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
