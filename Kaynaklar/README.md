@@ -12,7 +12,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Yazılıma İlk Adım : Akış Diyagramları Eğitimi](https://www.udemy.com/course/yazilima-ilk-adim-akis-diyagramlari/)
 	- 📺 Kurs : [Algoritma ve Programlama Mantığı Eğitimi](https://www.udemy.com/course/algoritma-ve-programlama-mantg-egitimi/)
 	- 📁 Doküman : [Algoritma ve Programlama Giriş](https://mega.nz/file/L1UzEAzJ#HwrHDA6myIk5iLQTGDEdbArZRuVhYKqg1mv_q5RHkMU)
-	- 📺 Video : [Algoritma ve Programlama Dersleri](https://www.youtube.com/watch?v=40Ip2UkpJDc&list=PLKnjBHu2xXNNiJdlhiEl_RMkK0PbJ1_DB)
+	- 🎞 Video : [Algoritma ve Programlama Dersleri](https://www.youtube.com/watch?v=40Ip2UkpJDc&list=PLKnjBHu2xXNNiJdlhiEl_RMkK0PbJ1_DB)
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Algoritma Geliştirme ve Programlamaya Giriş](https://www.udemy.com/course/algoritmagelistirme/)
 ---
@@ -20,8 +20,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [MobilHanem](https://www.mobilhanem.com/)
 	- 📁 Doküman : [Android Studio Dersleri](https://mega.nz/file/b5Fh0SpK#DktDT1wTlz8KuBYO-sSPF1CrqS21bTbUrpzNzRkBNxE)
-	- 📺 Video : [Android Dersleri](https://www.youtube.com/watch?v=tnHYuOdzmj0&list=PL20Zn-5nPIPHvLPq5xJTTImOd0qeNd9rW)
-	- 📺 Video : [Android Studio – Java Dersleri]()
+	- 🎞 Video : [Android Dersleri](https://www.youtube.com/watch?v=tnHYuOdzmj0&list=PL20Zn-5nPIPHvLPq5xJTTImOd0qeNd9rW)
+	- 🎞 Video : [Android Studio – Java Dersleri]()
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Android Mobil Uygulama Geliştirme Eğitimi | Java](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-java/)
 	- 📺 Kurs : [Flutter ile Uygulama Geliştirme Kursu | Android & IOS](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
@@ -42,10 +42,10 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>ASP.NET</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- Web Sitesi : [Btdersleri](https://www.btdersleri.com/)
-	- 📺 Video : [Asp.Net ile Okul Projesi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49bsuq6iLrg1qyZtekSCgPW)
-	- 📺 Video : [ASP.NET Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIsS51_RkdIpX8gemXkXXhD)
-	- 📺 Kurs : [Asp.mvc](https://www.udemy.com/course/aspmvc-x/)
+	- 🌍 Web Sitesi : [Btdersleri](https://www.btdersleri.com/)
+	- 🎞 Video : [Asp.Net ile Okul Projesi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj49bsuq6iLrg1qyZtekSCgPW)
+	- 🎞 Video : [ASP.NET Blog Sitesi](https://www.youtube.com/playlist?list=PLjI4XZvh1FJIsS51_RkdIpX8gemXkXXhD)
+	- 🎞 Kurs : [Asp.mvc](https://www.udemy.com/course/aspmvc-x/)
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Asp.Net ile Cv Sitesi ve Film & Dizi Yorum Sitesi Projeleri](https://www.udemy.com/course/aspnet-bootstrap-ile-adim-adim-blog-sitesi-gelistirme/)
 	- 📺 Kurs : [ASP.NET Webform Eğitim Videosu Serisi](https://www.udemy.com/course/aspnet-webform-egitim-videosu-serisi/)
@@ -56,7 +56,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 🌍 Web Sitesi : [Azkod](https://www.azkod.com/arduino)
 	- 🌍 Web Sitesi : [Robotistan](https://maker.robotistan.com/kategori/arduino/)
 	- 🌍 Web Sitesi : [Arduinoprojeler](https://www.arduinoprojeler.com/)
-	- 📺 Video : [Ardunio Dersleri](https://www.youtube.com/watch?v=EWNRjfuBM1M&list=PLDRcccSktQd5mfXDtGv975V77RCrW6H7U)
+	- 🎞 Video : [Ardunio Dersleri](https://www.youtube.com/watch?v=EWNRjfuBM1M&list=PLDRcccSktQd5mfXDtGv975V77RCrW6H7U)
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Arduino ile Robotik Kodlama Başlangıç Eğitimi (15 Proje )](https://www.udemy.com/course/robotik-kodlama-egitimi/)
 	- 📺 Kurs : [A'dan Z'ye Arduino Dersleri ve Robotik Kodlama Projeleri](https://www.udemy.com/course/arduinodersleri/)
@@ -64,9 +64,9 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 <b>C</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [CDersleri](https://www.cdersleri.com/)
-	- 📺 Video : [C Programlama Dersleri](https://www.youtube.com/watch?v=naWZ2xVuF30&list=PLIHume2cwmHdFsJRo5oYG7yQ4NyUx43ql)
-	- 📺 Video : [60 Derste C ile Programlamaya Giriş](https://www.youtube.com/watch?v=eIChume5VWQ&list=PLKnjBHu2xXNP-E_TjR-g5Tslm6dW4UH_3)
-	- 📺 Video : [C Programlama Dili](https://www.youtube.com/watch?v=FtaKEn2f2qI&list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i&index=1)
+	- 🎞 Video : [C Programlama Dersleri](https://www.youtube.com/watch?v=naWZ2xVuF30&list=PLIHume2cwmHdFsJRo5oYG7yQ4NyUx43ql)
+	- 🎞 Video : [60 Derste C ile Programlamaya Giriş](https://www.youtube.com/watch?v=eIChume5VWQ&list=PLKnjBHu2xXNP-E_TjR-g5Tslm6dW4UH_3)
+	- 🎞 Video : [C Programlama Dili](https://www.youtube.com/watch?v=FtaKEn2f2qI&list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i&index=1)
 	- 📺 Kurs : [Baştan sona C Programlama eğitimi](https://www.udemy.com/course/bastan-sona-c-programlama-egitimi/)
 	- 📺 Kurs : [Sıfırdan C Programlama Öğrenin](https://www.udemy.com/course/sifirdan-c-programlama-ogrenin/)
 - <b>Ücretli Kaynaklar</b>
@@ -77,7 +77,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 <b>C++</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Yusufsezer](https://www.yusufsezer.com.tr/cpp-dersleri/)
-	- 📺 Video : [C++ Dersleri](https://www.youtube.com/watch?v=UpQdjipl2OE&list=PLIHume2cwmHfmSmNlxXw1j9ZAKzYyiQAq)
+	- 🎞 Video : [C++ Dersleri](https://www.youtube.com/watch?v=UpQdjipl2OE&list=PLIHume2cwmHfmSmNlxXw1j9ZAKzYyiQAq)
 	- 📺 Kurs : [Sıfırdan C++ Eğitimi](https://www.udemy.com/course/sifirdan-cpp-egitimi/)
 	- 📺 Kurs : [Baştan sona C++ Programlama eğitimi](https://www.udemy.com/course/bastan-sona-cpp-programlama-egitimi/)
 - <b>Ücretli Kaynaklar</b>
@@ -88,9 +88,9 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 <b>C#</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [YazilimKodlama](https://www.yazilimkodlama.com/programlama/c-dersleri/)
-	- 📺 Video : [Murat Yücedağ Videoları](https://www.youtube.com/user/YazilimHerYerde/playlists)
-	- 📺 Video : [C# Eğitim Videoları](https://www.youtube.com/watch?v=5T6XQarpXgQ&list=PLh9ECzBB8tJNnowfMHINA00u8cJboZzNt)
-	- 📺 Video : [C# Dersleri](https://www.youtube.com/watch?v=2EkMrrX9sYY&list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD)
+	- 🎞 Video : [Murat Yücedağ Videoları](https://www.youtube.com/user/YazilimHerYerde/playlists)
+	- 🎞 Video : [C# Eğitim Videoları](https://www.youtube.com/watch?v=5T6XQarpXgQ&list=PLh9ECzBB8tJNnowfMHINA00u8cJboZzNt)
+	- 🎞 Video : [C# Dersleri](https://www.youtube.com/watch?v=2EkMrrX9sYY&list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD)
 	- 📺 Kurs : [C# Öğrenin](https://www.udemy.com/course/csharp-egitim-seti/)
 	- 📺 Kurs : [C# programlama dili ile Temel Programlama Eğitimi](https://www.udemy.com/course/c-sharp-programlama-dili-ile-temel-programlama-egitimi/)
 - <b>Ücretli Kaynaklar</b>
@@ -105,9 +105,9 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 🌍 Web Sitesi : [CSS.Sitesi](https://css.sitesi.web.tr/)
 	- 🌍 Web Sitesi : [Fatihhayrioglu](https://fatihhayrioglu.com/css-dersleri/)
 	- 📁 Doküman : [CSS Dersleri](https://mega.nz/file/nx82HLDa#tBg3fL1ft2izUwONMPuENqfSN3uQoB02n7jW3jzrpcs)
-	- 📺 Video : [Bootstrap 4 ile Responsive Web Tasarımı Dersleri 2017](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-xwLUQ0-OIA46mKwYeaxXR)
-	- 📺 Video : [CSS Dersleri](https://www.youtube.com/playlist?list=PLfAfrKyDRWrFYc77WNfwQpS9-DBBdir_I)
-	- 📺 Video : [A' dan Z' ye CSS Dersleri](https://www.youtube.com/playlist?list=PLkDTLUcoIKU3wjpmdgU0YjqcUyOSfCwOr)
+	- 🎞 Video : [Bootstrap 4 ile Responsive Web Tasarımı Dersleri 2017](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-xwLUQ0-OIA46mKwYeaxXR)
+	- 🎞 Video : [CSS Dersleri](https://www.youtube.com/playlist?list=PLfAfrKyDRWrFYc77WNfwQpS9-DBBdir_I)
+	- 🎞 Video : [A' dan Z' ye CSS Dersleri](https://www.youtube.com/playlist?list=PLkDTLUcoIKU3wjpmdgU0YjqcUyOSfCwOr)
 	- 📺 Kurs : [Bir Saatte Css Öğren](https://www.udemy.com/course/1-saatte-css-ogren/)
 	- 📺 Kurs : [HTML5 ve CSS3](https://www.udemy.com/course/html5-css3-html5-css3-html5-css3-html5-css3-html5-css3-html5-css3-html/)
 	- 📺 Kurs : [CSS&CSS3 Sıfırdan Kapsamlı Eğitim Seti (HTML Devam)](https://www.udemy.com/course/bidoluyazilim_css_css3_egitim_seti/)
@@ -118,8 +118,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>Dart</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 📺 Video : [Sıfırdan Dart ve Flutter Kursu](https://www.youtube.com/watch?v=nJ8PBr1hyQ8&list=PLSg_-k7KzeO_cbv7LhF5zLNY-_JhT_ZX4)
-	- 📺 Video : [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/watch?v=nAxc6zViHWo&list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
+	- 🎞 Video : [Sıfırdan Dart ve Flutter Kursu](https://www.youtube.com/watch?v=nJ8PBr1hyQ8&list=PLSg_-k7KzeO_cbv7LhF5zLNY-_JhT_ZX4)
+	- 🎞 Video : [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/watch?v=nAxc6zViHWo&list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
 
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Dart Programlama Dili Dersleri](https://www.udemy.com/course/dart-programlama-dili-dersleri/)
@@ -139,9 +139,9 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>Django</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 📺 Video : [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh)
-	- 📺 Video : [Django Uygulamasını Yayına Alma](https://www.youtube.com/playlist?list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o)
-	- 📺 Video : [Django Eğitim Seti](https://www.youtube.com/playlist?list=PLADEzZRbuZOYMU5ooc6uRLiJYTzfdP_1U)
+	- 🎞 Video : [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh)
+	- 🎞 Video : [Django Uygulamasını Yayına Alma](https://www.youtube.com/playlist?list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o)
+	- 🎞 Video : [Django Eğitim Seti](https://www.youtube.com/playlist?list=PLADEzZRbuZOYMU5ooc6uRLiJYTzfdP_1U)
 	- 📺 Kurs : [Python - Django ile Web Geliştirme Eğitimi(Todo App)-1.Bölüm](https://www.udemy.com/course/python-django-ile-web-uygulama-gelistirme-egitimi/)
 	- 📺 Kurs : [Python - Django ile Web Geliştirme Eğitimi(Todo App)-2.Bölüm](https://www.udemy.com/course/python-django-ile-web-uygulama-gelistirme-egitimi-kursu/)
 
@@ -151,8 +151,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>Flutter</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 📺 Video : [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/playlist?list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
-	- 📺 Video : [Flutter Eğitim Serisi](https://www.youtube.com/playlist?list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK)
+	- 🎞 Video : [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/playlist?list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
+	- 🎞 Video : [Flutter Eğitim Serisi](https://www.youtube.com/playlist?list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK)
 	- 🌍 Web Sitesi : [MobilHanem](https://www.mobilhanem.com/flutter-egitimi/)
 	- 📺 Kurs : [Google Flutter İle Mobil Uygulama Kursu](https://www.btkakademi.gov.tr/portal/course/google-flutter-ile-mobil-uygulama-kursu-10150#!/about)
 
@@ -163,8 +163,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>Git</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 📺 Video : [Git, GitHub ve GitLab Kullanımı](https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy)
-	- 📺 Video : [Yeni Başlayanlar İçin Git Dersleri](https://www.youtube.com/watch?v=qErVX17vbzU&list=PL_Z0TaFYSF3IqQKPOmbigAOVMMlZ2yU4K)
+	- 🎞 Video : [Git, GitHub ve GitLab Kullanımı](https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy)
+	- 🎞 Video : [Yeni Başlayanlar İçin Git Dersleri](https://www.youtube.com/watch?v=qErVX17vbzU&list=PL_Z0TaFYSF3IqQKPOmbigAOVMMlZ2yU4K)
 	- 📺 Kurs : [Git komutları Eğitimi](https://www.udemy.com/course/git-komutlari-kursu/)
 
 - <b>Ücretli Kaynaklar</b>
@@ -174,9 +174,9 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>GO</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 📺 Video : [Yeni Başlayanlar İçin GO(LANG)](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa)
-	- 📺 Video : [Golang Dersleri](https://www.youtube.com/playlist?list=PLfCVAl3pRAFgmuToYPlkSszL3ygoVQDmE)
-	- 📺 Video : [Go Dersleri](https://www.youtube.com/playlist?list=PLvg2WKrbLCKZfP4tRSWpnZsr5OI3FORdk)
+	- 🎞 Video : [Yeni Başlayanlar İçin GO(LANG)](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa)
+	- 🎞 Video : [Golang Dersleri](https://www.youtube.com/playlist?list=PLfCVAl3pRAFgmuToYPlkSszL3ygoVQDmE)
+	- 🎞 Video : [Go Dersleri](https://www.youtube.com/playlist?list=PLvg2WKrbLCKZfP4tRSWpnZsr5OI3FORdk)
 	- 📺 Kurs : [Go Programlama Dili Temelleri](https://www.udemy.com/course/go-programlama-dili-temelleri/)
 
 - <b>Ücretli Kaynaklar</b>
@@ -186,8 +186,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>HTML</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 📺 Video : [1 Videoda HTML Öğren [Web Geliştirme Eğitimi]](https://www.youtube.com/watch?v=sUWEuDSD7bE)
-	- 📺 Video : [1 Videoda HTML, CSS, Flexbox, Responsive Tasarım [Web Geliştirme Eğitimi]](https://www.youtube.com/watch?v=y745R3Lv9WI)
+	- 🎞 Video : [1 Videoda HTML Öğren [Web Geliştirme Eğitimi]](https://www.youtube.com/watch?v=sUWEuDSD7bE)
+	- 🎞 Video : [1 Videoda HTML, CSS, Flexbox, Responsive Tasarım [Web Geliştirme Eğitimi]](https://www.youtube.com/watch?v=y745R3Lv9WI)
 	- 📺 Kurs : [Bir Saatte Html Öğren](https://www.udemy.com/course/1-saatte-html-ogren/)
 	- 📺 Kurs : [HTML5 ve CSS3](https://www.udemy.com/course/html5-css3-html5-css3-html5-css3-html5-css3-html5-css3-html5-css3-html/)
 	- 📺 Kurs : [Sıfırdan HTML, HTML 5 Öğrenin](https://www.udemy.com/course/sifirdan-ileri-seviye-php-pdo-e-ticaret-web-sitesi-yapma/)
@@ -201,7 +201,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>İONİC</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 📺 Video : [İonic 3'ü Gerçek Projeden Öğrenin - Meditasyon Uygulaması](https://www.youtube.com/watch?v=XIRbID9P-xI&list=PLrWGe5fM0LZ5haOYb8wo5pxmrbjchGScJ)
+	- 🎞 Video : [İonic 3'ü Gerçek Projeden Öğrenin - Meditasyon Uygulaması](https://www.youtube.com/watch?v=XIRbID9P-xI&list=PLrWGe5fM0LZ5haOYb8wo5pxmrbjchGScJ)
 
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Ionic 4-Firebase-Uploadcare ile Mobil Uygulama Oluşturalım](https://www.udemy.com/course/ionic-4-firebase-uploadcare-ile-mobil-uygulama-olusturalm/)
@@ -212,10 +212,10 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b>Ücretsiz Kaynaklar</b>
 	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 1](https://mega.nz/file/ToUxiAIK#ecX8o89iExDOOqThh3KPVKC-WqyIhe7OW7zkRU5VT6g)
 	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 2](https://mega.nz/file/ilEHAIQY#4mVy9K8NYjq0Qpzk88L8SKnXaJ28EHJgks2xKYjbfco)
-	- 📺 Video : [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W)
-	- 📺 Video : [Java Programlama](https://www.youtube.com/playlist?list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I)
-	- 📺 Video : [Java, Programlamaya Giriş](https://www.youtube.com/playlist?list=PLh9ECzBB8tJNWhY-uH1RrvAFI88vC-Snh)
-	- 📺 Video : [6 Saatlik JAVA Programlama Kampı / Dersleri](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8)
+	- 🎞 Video : [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W)
+	- 🎞 Video : [Java Programlama](https://www.youtube.com/playlist?list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I)
+	- 🎞 Video : [Java, Programlamaya Giriş](https://www.youtube.com/playlist?list=PLh9ECzBB8tJNWhY-uH1RrvAFI88vC-Snh)
+	- 🎞 Video : [6 Saatlik JAVA Programlama Kampı / Dersleri](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8)
 	- 📺 Kurs : [Java İle Nesne Tabanlı Programlama Temelleri](https://www.udemy.com/course/java-ile-nesne-tabanl-programlama-temelleri/)
 	- 📺 Kurs : [Java ile Programlama ve OOP Mantığı](https://www.udemy.com/course/java-ile-programlama/)
 	- 📺 Kurs : [2 Saatte Java Temellerine Hakim Olun!](https://www.udemy.com/course/2-saatte-java-temellerine-hakim-olun/)
@@ -231,10 +231,10 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/javascript-dersleri/)
 	- 📁 Doküman : [Simple Javascript](https://mega.nz/file/X10G1CZZ#KlQ2I-3TfT-JlapHcf1-c8nnqeaABN9L9Hw30hOnLts)
 	- 📁 Doküman : [Javascript](https://mega.nz/file/ys0k1SqA#duYBTB84rDO9tCV5NT_dcB4NdcsG-xgeDJpIrg4JT2E)
-	- 📺 Video : [1 Videoda Javascript Temellerini Öğrenin](https://www.youtube.com/watch?v=-ei7CLxoOVU)
-	- 📺 Video : [1 Video' da Javascript Dersleri ile Javascript Programlama](https://www.youtube.com/watch?v=hHwxdPIUUBo)
-	- 📺 Video : [Yakın Kampüs - Javascript Ders 1 - Javascript'e Giriş](https://www.youtube.com/playlist?list=PLWctyKyPphPj2KD1CTuBa_xjK8zjRS9jX)
-	- 📺 Video : [JavaScript Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZV-3dYw1LUEF3WaaXzwS9nO)
+	- 🎞 Video : [1 Videoda Javascript Temellerini Öğrenin](https://www.youtube.com/watch?v=-ei7CLxoOVU)
+	- 🎞 Video : [1 Video' da Javascript Dersleri ile Javascript Programlama](https://www.youtube.com/watch?v=hHwxdPIUUBo)
+	- 🎞 Video : [Yakın Kampüs - Javascript Ders 1 - Javascript'e Giriş](https://www.youtube.com/playlist?list=PLWctyKyPphPj2KD1CTuBa_xjK8zjRS9jX)
+	- 🎞 Video : [JavaScript Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZV-3dYw1LUEF3WaaXzwS9nO)
 	- 📺 Kurs : [Sıfırdan ileri seviyeye javascript](https://www.btkakademi.gov.tr/portal/course/javascript-8099#!/about)
 
 - <b>Ücretli Kaynaklar</b>
@@ -247,8 +247,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 <b>KOTLİN</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Mobilhanem](https://www.mobilhanem.com/kotlin-egitimleri/)
-	- 📺 Video : [Kotlin Eğitim Seti](https://www.youtube.com/playlist?list=PLueFkQL21d3j-KHr6LY07mFTtv0O-pTY-)
-	- 📺 Video : [Kotlin Programlama Eğitim Seti](https://www.youtube.com/playlist?list=PLygmmAP2v9CUy4OMJvyD-5jHZgD66BOMR)
+	- 🎞 Video : [Kotlin Eğitim Seti](https://www.youtube.com/playlist?list=PLueFkQL21d3j-KHr6LY07mFTtv0O-pTY-)
+	- 🎞 Video : [Kotlin Programlama Eğitim Seti](https://www.youtube.com/playlist?list=PLygmmAP2v9CUy4OMJvyD-5jHZgD66BOMR)
 	- 📺 Kurs : [Android Geliştiriciler İçin Kotlin Kursu](https://www.udemy.com/course/android-gelistiriciler-icin-kotlin-kursu/)
 	- 📺 Kurs : [Android Studio ile Mobil Uygulama Geliştirme (Başlangıç)](https://www.udemy.com/course/android-studio-ile-mobil-uygulama-gelistirme-baslangc/)
 
@@ -260,9 +260,9 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>MAKİNE ÖĞRENMESİ</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 📺 Video : [Makine Öğrenmesine Giriş](https://www.youtube.com/playlist?list=PLlHW_nnK3v5hlnKAsAUToYFCHYGBsR_6a)
-	- 📺 Video : [Python ile Makine Öğrenmesi Dersleri | Komple Kurs ](https://www.youtube.com/playlist?list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF)
-	- 📺 Video : [Makine Öğrenmesi](https://www.youtube.com/playlist?list=PL3EFm54Q_263kz-ynwXW2p1WOkbcx9vS3)
+	- 🎞 Video : [Makine Öğrenmesine Giriş](https://www.youtube.com/playlist?list=PLlHW_nnK3v5hlnKAsAUToYFCHYGBsR_6a)
+	- 🎞 Video : [Python ile Makine Öğrenmesi Dersleri | Komple Kurs ](https://www.youtube.com/playlist?list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF)
+	- 🎞 Video : [Makine Öğrenmesi](https://www.youtube.com/playlist?list=PL3EFm54Q_263kz-ynwXW2p1WOkbcx9vS3)
 	- 📺 Kurs : [Makine Öğrenmesi Regresyon Algoritmaları](https://www.udemy.com/course/makine-ogrenmesi-regresyon/)
 	- 📺 Kurs : [Makine Öğrenmesi Sınıflandırma Algoritmaları](https://www.udemy.com/course/makine-ogrenmesi-siniflandirma-algoritmalari/)
 
@@ -274,9 +274,9 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>MATLAB</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 📺 Video : [1,5 SAATTE SIFIRDAN MATLAB ÖĞREN | Vektör, Matris, 2D & 3D Grafik Çizme](https://www.youtube.com/watch?v=I3BNo0YlXsg)
-	- 📺 Video : [Matlab Dersleri - Matlab Eğitim Videoları](https://www.youtube.com/playlist?list=PLdcoZed79ZudlbNBRG9f3IliMjDXNC6hd)
-	- 📺 Video : [MATLAB Dersleri](https://www.youtube.com/playlist?list=PLyIEwiklim9jD3zMsxXnjgjP7wq74Xrg-)
+	- 🎞 Video : [1,5 SAATTE SIFIRDAN MATLAB ÖĞREN | Vektör, Matris, 2D & 3D Grafik Çizme](https://www.youtube.com/watch?v=I3BNo0YlXsg)
+	- 🎞 Video : [Matlab Dersleri - Matlab Eğitim Videoları](https://www.youtube.com/playlist?list=PLdcoZed79ZudlbNBRG9f3IliMjDXNC6hd)
+	- 🎞 Video : [MATLAB Dersleri](https://www.youtube.com/playlist?list=PLyIEwiklim9jD3zMsxXnjgjP7wq74Xrg-)
 	- 📺 Kurs : [Mühendislik Öğrencileri İçin Matlab](https://www.udemy.com/course/matlabber/)
 
 - <b>Ücretli Kaynaklar</b>
@@ -287,20 +287,38 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 <b>MONGODB</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/mongodb-dersleri/)
-	- 📺 Video : [Mongo DB - NoSQL](https://www.youtube.com/playlist?list=PLXGR42frWa8TP4T_MccK_B2_sKxGqbCFr)
-	- 📺 Video : [Yeni Başlayanlar İçin MongoDB (70 Dakika)](https://www.youtube.com/watch?v=ZMgs0wSsfUk)
+	- 🎞 Video : [Mongo DB - NoSQL](https://www.youtube.com/playlist?list=PLXGR42frWa8TP4T_MccK_B2_sKxGqbCFr)
+	- 🎞 Video : [Yeni Başlayanlar İçin MongoDB (70 Dakika)](https://www.youtube.com/watch?v=ZMgs0wSsfUk)
 ---
 <b>NODE.JS</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/node-js-dersleri/)
-	- 📺 Video : [Node js Dersleri](https://www.youtube.com/playlist?list=PLDUOF2Be-kzm_8UxwfY0pKQqwPR5TOs0X)
-	- 📺 Video : [1 VİDEODA NODE.JS VE NPM - Engin Demiroğ](https://www.youtube.com/watch?v=Gb6h5Up_jO0)
+	- 🎞 Video : [Node js Dersleri](https://www.youtube.com/playlist?list=PLDUOF2Be-kzm_8UxwfY0pKQqwPR5TOs0X)
+	- 🎞 Video : [1 VİDEODA NODE.JS VE NPM - Engin Demiroğ](https://www.youtube.com/watch?v=Gb6h5Up_jO0)
 	- 📺 Kurs : [Yeni Başlayanlar İçin Node.js - Express.js - MongoDB](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq8QPLj2UDB-GAtQvBaCBG4D)
 
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Sıfırdan Her Yönüyle JavaScript & Node.JS](https://www.udemy.com/course/nodejs-egitimi/)
 	- 📺 Kurs : [Node.js Eğitimi - Sıfırdan Profesyonele NodeJs ve Javascript](https://www.udemy.com/course/nodejs-egitimi-sifirdan-profesyonele/)
 	- 📺 Kurs : [Node JS & Javascript: A'dan Z'ye Tüm Yönleriyle](https://www.udemy.com/course/node-js/)
+---
+<b>PHP</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Yusufsezer.com]()
+	- 🌍 Web Sitesi : [Yusufsezer.com]()
+	- 📺 Kurs : [PHP Eğitimi](https://www.btkakademi.gov.tr/portal/course/php-6509)
+	- 📺 Kurs : [PHP Sıfırdan Kapsamlı Eğitim Seti](https://www.udemy.com/course/bidoluyazilim_php_egitim_seti/)
+	- 📺 Kurs : [PHP Eğitim Seti 1](https://www.udemy.com/course/php-egitim-seti-1-a/)
+	- 📺 Kurs : [PHP Yazabilirim-Temel PHP Eğitim Seti](https://www.udemy.com/course/php-yazabilirim-temel-php-egitim-seti/)
+	- 📺 Kurs : [Php ile Web Geliştirme](https://www.udemy.com/course/php-ile-web-gelistirme/)
+	- 🎞 Video : [Sıfırdan PHP Dersleri - Tüm Bölümler](https://www.youtube.com/playlist?list=PLciTNdnGYqpFIyafqIkFHiHFbGdE6Y35K)
+	- 🎞 Video : [Sıfırdan Php7 Eğitim Seti](https://www.youtube.com/playlist?list=PLY20HpFruiK2RxKOaKIirxjlYAA3dB6J6)
+	- 🎞 Video : [Php Dersleri - Php Eğitim Videoları - Php Eğitim Seti](https://www.youtube.com/playlist?list=PLZtkgIR0fgTF-J55mgaNUK7uFvzFzgpGa)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Sıfırdan İleri Seviyeye Komple PHP ile Web Geliştirme](https://www.udemy.com/course/sifirdan-ileri-seviye-web-programlama-html-php-pdo-mysql/)
+	- 📺 Kurs : [Sıfırdan PHP ve MySQL Eğitim Serisi](https://www.udemy.com/course/php-egitim-seti/)
+	- 📺 Kurs : [Sıfırdan İleriye PHP ve MySQL Eğitim Seti [PDO-MYSQLİ]](https://www.udemy.com/course/php-dersleri-a-dan-z-ye-mysql-egitim-seti-pdo-mysqli/)
 ---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
