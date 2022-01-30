@@ -304,8 +304,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>PHP</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 🌍 Web Sitesi : [Yusufsezer.com]()
-	- 🌍 Web Sitesi : [Yusufsezer.com]()
+	- 🌍 Web Sitesi : [MobilHanem.com](https://www.mobilhanem.com/php-egitimleri/)
+	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/php-dersleri/)
 	- 📺 Kurs : [PHP Eğitimi](https://www.btkakademi.gov.tr/portal/course/php-6509)
 	- 📺 Kurs : [PHP Sıfırdan Kapsamlı Eğitim Seti](https://www.udemy.com/course/bidoluyazilim_php_egitim_seti/)
 	- 📺 Kurs : [PHP Eğitim Seti 1](https://www.udemy.com/course/php-egitim-seti-1-a/)
