@@ -320,6 +320,25 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Sıfırdan PHP ve MySQL Eğitim Serisi](https://www.udemy.com/course/php-egitim-seti/)
 	- 📺 Kurs : [Sıfırdan İleriye PHP ve MySQL Eğitim Seti [PDO-MYSQLİ]](https://www.udemy.com/course/php-dersleri-a-dan-z-ye-mysql-egitim-seti-pdo-mysqli/)
 ---
+<b>PYTHON</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [MobilHanem.com](https://www.mobilhanem.com/python-egitimi/)
+	- 🌍 Web Sitesi : [Python.sitesi.web.tr](https://python.sitesi.web.tr/)
+	- 🌍 Web Sitesi : [Sadikturhan.com](https://www.sadikturan.com/python-dersleri)
+	- 📺 Kurs : [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
+	- 📺 Kurs : [Programlamaya Giriş İçin Temel Kurs](https://www.udemy.com/course/temel-python-kursu/)
+	- 📺 Kurs : [Python ile Nesne Tabanlı Programlama A-Z™](https://www.udemy.com/course/python-nesne-tabanli-programlama/)
+	- 📺 Kurs : [Python Programlamanın Temelleri](https://www.udemy.com/course/python-programlamann-temelleri/)
+	- 📺 Kurs : [Python ile Sıfırdan Programlamaya Giriş](https://www.udemy.com/course/python-ile-sfrdan-programlamaya-giris-2021/)
+	- 🎞 Video : [Python Dersleri (Türkçe)](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
+	- 🎞 Video : [Sıfırdan İleri Seviye Profesyonel Python](https://www.youtube.com/playlist?list=PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9)
+	- 🎞 Video : [1 Videoda Python Öğrenin [ Python Programlama Dersleri ]](https://www.youtube.com/watch?v=tvvEqvyh_Vw)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [(50+ Saat) Python ile Sıfırdan İleri Seviye Programlama](https://www.udemy.com/course/python-dersleri/)
+	- 📺 Kurs : [(40+ Saat) Python | Sıfırdan İleri Seviye Programlama](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/)
+	- 📺 Kurs : [Python Programlama Eğitimi A-Z™](https://www.udemy.com/course/veri-bilimi-ve-makine-ogrenmesi-icin-python/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
