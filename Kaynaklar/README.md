@@ -339,6 +339,17 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [(40+ Saat) Python | Sıfırdan İleri Seviye Programlama](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/)
 	- 📺 Kurs : [Python Programlama Eğitimi A-Z™](https://www.udemy.com/course/veri-bilimi-ve-makine-ogrenmesi-icin-python/)
 ---
+<b>R</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🎞 Video : [1 Videoda R Programlama Dili Dersleri](https://www.youtube.com/watch?v=VUkHNM4hVvI)
+	- 🎞 Video : [R Temel Eğitim](https://www.youtube.com/playlist?list=PLLXVZmxXO75w4XkdbWDDfzQu18QGm0ufU)
+	- 🎞 Video : [R Programlama](https://www.youtube.com/playlist?list=PL2z35Dc9QW9JITWzT0eEvmSBfBx4KTWjc)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Modern R Programlama Eğitimi](https://www.udemy.com/course/r-programlama/)
+	- 📺 Kurs : [R ile Uygulamalı Veri Bilimi: İstatistik ve Makine Öğrenmesi](https://www.udemy.com/course/r-veri-bilimi-istatistik-ve-makine-ogrenmesi-rstudio/)
+	- 📺 Kurs : [A-Z™ | R Programlama ile Veri Bilimi](https://www.udemy.com/course/r-programlama-egitimi/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
