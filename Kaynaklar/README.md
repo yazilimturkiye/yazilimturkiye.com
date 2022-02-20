@@ -27,7 +27,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Flutter ile Uygulama Geliştirme Kursu | Android & IOS](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
 	- 📺 Kurs : [Android Mobil Uygulama Geliştirme Eğitimi | Kotlin](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-kotlin/)
 ---
-<b>ANGULAR</b>
+<b>ANGULAR.JS</b>
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Angular Türkçe Dersler ve Makaleler](https://github.com/MehmetSert/Angular-Turkce-Makaleler)
 	- 📺 Kurs : [Angular 9 Best Practices(En iyi teknikler)](https://www.udemy.com/course/angular-9-best-practices-en-iyi-teknikler/)
@@ -116,7 +116,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [(110+ Saat) Komple Uygulamalı Web Geliştirme Eğitimi](https://www.udemy.com/course/komple-web-developer-kursu/)
 	- 📺 Kurs : [Web Tasarım| HTML 5 | CSS 3 | BOOTSTRAP 4 | JAVASCRIPT](https://www.udemy.com/course/web-tasarim-html-css-bootstrap-javascript-jquery/)
 ---
-<b>Dart</b> 
+<b>DART</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🎞 Video : [Sıfırdan Dart ve Flutter Kursu](https://www.youtube.com/watch?v=nJ8PBr1hyQ8&list=PLSg_-k7KzeO_cbv7LhF5zLNY-_JhT_ZX4)
 	- 🎞 Video : [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/watch?v=nAxc6zViHWo&list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
@@ -137,7 +137,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Deep Learning ve Python: İleri Seviye Derin Öğrenme (5.1)](https://www.udemy.com/course/deep-learning-ve-python-ileri-seviye-derin-ogrenme-52/)
 	- 📺 Kurs : [Python ve Derin Öğrenme: Pytorch ile Derin Öğrenme (5.3)](https://www.udemy.com/course/python-ve-derin-ogrenme-pytorch-ile-derin-ogrenme-53/)
 ---
-<b>Django</b> 
+<b>DJANGO</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🎞 Video : [Django ile Web Programlama](https://www.youtube.com/playlist?list=PLPrHLaayVkhny4WRNp05C1qRl1Aq3Wswh)
 	- 🎞 Video : [Django Uygulamasını Yayına Alma](https://www.youtube.com/playlist?list=PLPrHLaayVkhk9_NtkgHFzdCq78MXega6o)
@@ -149,7 +149,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Python ve Django ile Sıfırdan Web Geliştirme Kursu](https://www.udemy.com/course/django-kursu/)
 	- 📺 Kurs : [Django A-Z™ | Sıfırdan Web Programlam](https://www.udemy.com/course/django-egitimi/)
 ---
-<b>Flutter</b> 
+<b>FLUTTER</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🎞 Video : [Google Flutter Dersleri Dart Dersleri](https://www.youtube.com/playlist?list=PLrWGe5fM0LZ6aJG8dWFRkqchaHENPmLET)
 	- 🎞 Video : [Flutter Eğitim Serisi](https://www.youtube.com/playlist?list=PLDtOT47tyugN9StQujdf4FCMMmsGY9dVK)
@@ -322,7 +322,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 ---
 <b>PYTHON</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 🌍 Web Sitesi : [MobilHanem.com](https://www.mobilhanem.com/python-egitimi/)
+	- 🌍 Web Sitesi : [Mobilhanem.com](https://www.mobilhanem.com/python-egitimi/)
 	- 🌍 Web Sitesi : [Python.sitesi.web.tr](https://python.sitesi.web.tr/)
 	- 🌍 Web Sitesi : [Sadikturhan.com](https://www.sadikturan.com/python-dersleri)
 	- 📺 Kurs : [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
@@ -350,6 +350,30 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [R ile Uygulamalı Veri Bilimi: İstatistik ve Makine Öğrenmesi](https://www.udemy.com/course/r-veri-bilimi-istatistik-ve-makine-ogrenmesi-rstudio/)
 	- 📺 Kurs : [A-Z™ | R Programlama ile Veri Bilimi](https://www.udemy.com/course/r-programlama-egitimi/)
 ---
+<b>REACT.JS</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Mobilhanem.com](https://www.mobilhanem.com/reactjs-egitimi/)
+	- 📺 Kurs : [REACT İle Web Programcılığı](https://www.btkakademi.gov.tr/portal/course/react-ile-web-programciligi-10035)
+	- 📺 Kurs : [Yeni Başlayanlar için React-Redux Eğitim Serisi](https://www.udemy.com/course/yeni-baslayanlar-icin-react-redux-egitim-serisi/)
+	- 🎞 Video : [React Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj)
+	- 🎞 Video : [Yeni Başlayanlar İçin React](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [React JS: Sıfırdan Başlayarak React JS, Redux ve Hooks Öğren](https://www.udemy.com/course/react-js-sfrdan-baslayarak-react-js-redux-ve-hooks-ogren/)
+	- 📺 Kurs : [React JS :Uygulamalı React JS Eğitimi](https://www.udemy.com/course/uygulamali-react-js-egitimi/)
+	- 📺 Kurs : [Sıfırdan Her Yönüyle React ve Redux](https://www.udemy.com/course/react-redux-egitimi/)
+---
+<b>REACT NATİVE</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Kurs : [React Native ile Sıfırdan Mobil Uygulama Geliştirme](https://www.udemy.com/course/react-native-ile-sfrdan-mobil-uygulama-gelistirme/)
+	- 🎞 Video : [React Native İle Mobil Uygulama Geliştirme](https://www.youtube.com/playlist?list=PL6BigWlyDofvSsDaFxIUZK1jMOZDLg4qM)
+	- 🎞 Video : [React Native Dersleri](https://www.youtube.com/playlist?list=PLiYPP1v1hM958PlxbdnuNaplEucdiBntE)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [React Native ile Mobil Uygulama Geliştirme ve MobX](https://www.udemy.com/course/react-native-ile-mobil-uygulama-gelistirme-ve-mobx/)
+	- 📺 Kurs : [React Native: React Native IOS & Android Uygulama Geliştirme](https://www.udemy.com/course/react-native-react-native-ios-android-uygulama-gelistirme/)
+	- 📺 Kurs : [React Native: Başlangıçtan İleri Seviyeye Mobil Uygulama](https://www.udemy.com/course/react-native-kursu/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
@@ -360,6 +384,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📁 Doküman : [CSS Dersleri](https://mega.nz/file/nx82HLDa#tBg3fL1ft2izUwONMPuENqfSN3uQoB02n7jW3jzrpcs)
 	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 1](https://mega.nz/file/ToUxiAIK#ecX8o89iExDOOqThh3KPVKC-WqyIhe7OW7zkRU5VT6g)
 	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 2](https://mega.nz/file/ilEHAIQY#4mVy9K8NYjq0Qpzk88L8SKnXaJ28EHJgks2xKYjbfco)
+- <b>[Elif Nur](https://github.com/elifnurc4)</b>
 - <b>[Türkçe Kaynaklar](https://turkcekaynaklar.com/)</b>
 - <b></b>
 - <b></b>
