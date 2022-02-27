@@ -374,6 +374,28 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [React Native: React Native IOS & Android Uygulama Geliştirme](https://www.udemy.com/course/react-native-react-native-ios-android-uygulama-gelistirme/)
 	- 📺 Kurs : [React Native: Başlangıçtan İleri Seviyeye Mobil Uygulama](https://www.udemy.com/course/react-native-kursu/)
 ---
+<b>RUBY</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🎞 Video : [Ruby ile Programlama Eğitimi - Sıfırdan İleri Seviye](https://www.youtube.com/playlist?list=PLtEK-HIwWaSe3rrNQM4JGUYzRvqyQQ_v1)
+	- 🎞 Video : [1 Videoda Ruby Öğrenin](https://www.youtube.com/watch?v=p4Kq30td9VA)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [A'dan Z'ye Ruby Programlama](https://www.udemy.com/course/a-dan-zye-ruby-programlama/)
+	- 📺 Kurs : [Sıfırdan İleri Seviye Ruby Programlama Dili](https://www.udemy.com/course/sifirdan-ileri-seviye-ruby-programlama-dili/)
+---
+<b>SCRATCH</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Mobilhanem.com](https://www.mobilhanem.com/scratch-egitimi/)
+	- 📺 Kurs : [Scratch ile Çocuklar için Kodlama](https://www.udemy.com/course/scratch-ile-cocuklar-icin-kodlama/)
+	- 📺 Kurs : [Herkes için Scratch Eğitimi ve Uygulamaları](https://www.udemy.com/course/herkes-icin-scratch-egitimi-ve-uygulamalari/)
+	- 🎞 Video : [Scratch Öğreniyorum! Scratch Dersleri, Örnekleri](https://www.youtube.com/playlist?list=PLDRcccSktQd42DO6NszpBXLLHSjGmZETo)
+	- 🎞 Video : [Scratch 3.0 Dersleri](https://www.youtube.com/playlist?list=PLTdvYFgJHhjscahDrKHWOwenuKY3mLDHJ)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Küçükten Büyüğe Herkes İçin Scratch İle Görsel Programlama](https://www.udemy.com/course/scratch-programlama/)
+	- 📺 Kurs : [Scratch Kodlama: Yeni Başlayanlar İçin Uygulamalı Scratch](https://www.udemy.com/course/scratch-kodlama-yeni-baslayanlar-icin-uygulamal-scratch/)
+	- 📺 Kurs : [Scratch Artık Çocuk Oyuncağı](https://www.udemy.com/course/scratch-artk-cocuk-oyuncag/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
