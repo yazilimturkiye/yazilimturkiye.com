@@ -396,6 +396,22 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Scratch Kodlama: Yeni Başlayanlar İçin Uygulamalı Scratch](https://www.udemy.com/course/scratch-kodlama-yeni-baslayanlar-icin-uygulamal-scratch/)
 	- 📺 Kurs : [Scratch Artık Çocuk Oyuncağı](https://www.udemy.com/course/scratch-artk-cocuk-oyuncag/)
 ---
+<b>SQL</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Mobilhanem.com](https://www.mobilhanem.com/sql-egitimleri/)
+	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/sql-dersleri/)
+	- 🎞 Video : [60 Derste SQL](https://www.youtube.com/playlist?list=PLKnjBHu2xXNP6Qa6u8GLawPnzo1brHZPP)
+	- 🎞 Video : [1 Saatte SQL Veritabanı Mantığını Öğren.](https://www.youtube.com/watch?v=5jyEhiKmbDo)
+	- 🎞 Video : [1 Videoda Veritabanı Tasarımı Normalizasyon ve SQL (SQL Dersleri)](https://www.youtube.com/watch?v=URskGHtvFlE)
+	- 📺 Kurs : [Yeni Başlayanlar için Temel Sql Eğitimi 1](https://www.udemy.com/course/yeni-baslayanlar-icin-temel-sql-egitimi-1/)
+	- 📺 Kurs : [Yeni Başlayanlar için Temel Sql Eğitimi 2](https://www.udemy.com/course/yeni-baslayanlar-icin-temel-sql-egitimi-2/)
+	- 📺 Kurs : [Yeni Başlayanlar için Temel Sql Eğitimi 3](https://www.udemy.com/course/yeni-baslayanlar-icin-temel-sql-egitimi-3/)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Uygulamalarla SQL Öğreniyorum](https://www.udemy.com/course/sql-ogreniyorum/)
+	- 📺 Kurs : [SQL Kursu : Sıfırdan Sektörün Yükseklerine](https://www.udemy.com/course/sql-kursu/)
+	- 📺 Kurs : [Uçtan Uca SQL Server Eğitimi](https://www.udemy.com/course/uctan-uca-sql-server-egitimi/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
