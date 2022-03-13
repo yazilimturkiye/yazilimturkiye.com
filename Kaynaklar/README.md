@@ -422,8 +422,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Mobilhanem.com](https://www.mobilhanem.com/swift-egitimi/)
 	- 📺 Kurs : [Swift UI ile IOS Mobil Geliştirme](https://www.btkakademi.gov.tr/portal/course/swift-ui-ile-ios-mobil-gelistirme-12696)
-        - 🎞 Video : [SwiftUI ile iOS Programlama](https://www.youtube.com/playlist?list=PLq4I99QKpIbl02hl7UM3cj-ay1w2Z3Bq6)
-        - 📁 Doküman : [Swift Dersleri](https://mega.nz/file/jxEVmZ4L#nop1HWmzckcL_HaZfQm2yO1JwLOFtystFLsSolaxHkM)
+	-  🎞 Video : [SwiftUI ile iOS Programlama](https://www.youtube.com/playlist?list=PLq4I99QKpIbl02hl7UM3cj-ay1w2Z3Bq6)
+	-  📁 Doküman : [Swift Dersleri](https://mega.nz/file/jxEVmZ4L#nop1HWmzckcL_HaZfQm2yO1JwLOFtystFLsSolaxHkM)
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [iOS 15 & Swift 5: Başlangıçtan İleri Seviyeye Mobil Uygulama](https://www.udemy.com/course/ios-gelistirme-kursu/)
 	- 📺 Kurs : [İOS Mobil Uygulama Geliştirme Eğitimi | Swift |SwiftUI|](https://www.udemy.com/course/ios-mobil-uygulama-gelistirme-egitimi-swift/)
