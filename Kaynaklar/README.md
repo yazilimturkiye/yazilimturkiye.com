@@ -412,6 +412,23 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [SQL Kursu : Sıfırdan Sektörün Yükseklerine](https://www.udemy.com/course/sql-kursu/)
 	- 📺 Kurs : [Uçtan Uca SQL Server Eğitimi](https://www.udemy.com/course/uctan-uca-sql-server-egitimi/)
 ---
+<b>SQLİTE</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🎞 Video : [SQLite Veritabanı Kurulum ve Hızlı Başlangıç](https://www.youtube.com/watch?v=4MzqJVUotgY)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [SQLite Veritabanı Programlama](https://www.udemy.com/course/sqlite-veritabani-programlama/)
+---
+<b>SWİFT</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Mobilhanem.com](https://www.mobilhanem.com/swift-egitimi/)
+	- 📺 Kurs : [Swift UI ile IOS Mobil Geliştirme](https://www.btkakademi.gov.tr/portal/course/swift-ui-ile-ios-mobil-gelistirme-12696)
+        - 🎞 Video : [SwiftUI ile iOS Programlama](https://www.youtube.com/playlist?list=PLq4I99QKpIbl02hl7UM3cj-ay1w2Z3Bq6)
+        - 📁 Doküman : [Swift Dersleri](https://mega.nz/file/jxEVmZ4L#nop1HWmzckcL_HaZfQm2yO1JwLOFtystFLsSolaxHkM)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [iOS 15 & Swift 5: Başlangıçtan İleri Seviyeye Mobil Uygulama](https://www.udemy.com/course/ios-gelistirme-kursu/)
+	- 📺 Kurs : [İOS Mobil Uygulama Geliştirme Eğitimi | Swift |SwiftUI|](https://www.udemy.com/course/ios-mobil-uygulama-gelistirme-egitimi-swift/)
+	- 📺 Kurs : [iOS 15 Sıfırdan İleri Seviye Mobil Uygulama (85 Saat)](https://www.udemy.com/course/ios-swift-sifirdan-ileri-seviye-mobil-uygulama/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
@@ -430,4 +447,3 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b></b>
 - <b></b>
 - <b></b>
-
