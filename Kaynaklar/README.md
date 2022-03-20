@@ -61,6 +61,16 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Arduino ile Robotik Kodlama Başlangıç Eğitimi (15 Proje )](https://www.udemy.com/course/robotik-kodlama-egitimi/)
 	- 📺 Kurs : [A'dan Z'ye Arduino Dersleri ve Robotik Kodlama Projeleri](https://www.udemy.com/course/arduinodersleri/)
 ---
+<b>BASH SCRİPT</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/linux-dersleri/)
+	- 🎞 Video : [Bash Script Temel Eğitimi](https://www.youtube.com/playlist?list=PLeKWVPCoT9e0jHStZlH-z8Gsoo1SBZJlG)
+	- 📺 Kurs : [Bash Programlama Dili](https://www.btkakademi.gov.tr/portal/course/bash-programlama-dili-883)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/)
+	- 📺 Kurs : [Complete Bash Shell Scripting](https://www.udemy.com/course/complete-bash-shell-scripting-b/)
+	- 📺 Kurs : [Bash Mastery: The Complete Guide to Bash Shell Scripting](https://www.udemy.com/course/bash-mastery/)
+---
 <b>C</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [CDersleri](https://www.cdersleri.com/)
