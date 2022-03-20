@@ -439,6 +439,15 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [İOS Mobil Uygulama Geliştirme Eğitimi | Swift |SwiftUI|](https://www.udemy.com/course/ios-mobil-uygulama-gelistirme-egitimi-swift/)
 	- 📺 Kurs : [iOS 15 Sıfırdan İleri Seviye Mobil Uygulama (85 Saat)](https://www.udemy.com/course/ios-swift-sifirdan-ileri-seviye-mobil-uygulama/)
 ---
+<b>TYPESCRİPT</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	-  🎞 Video : [1 Videoda TypeScript](https://www.youtube.com/watch?v=LEKyAW3jPKA)
+	-  🎞 Video : [Typescript Dersleri](https://www.youtube.com/playlist?list=PLDI9Elaqezgy2cCm0oVrwA0tCDj96dCgb)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
+	- 📺 Kurs : [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+	- 📺 Kurs : [TypeScript: Learn Typescript & Type script Pro In Details](https://www.udemy.com/course/typescript-learn-typescript-type-script-pro-in-details/)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
