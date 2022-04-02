@@ -27,6 +27,16 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Flutter ile Uygulama Geliştirme Kursu | Android & IOS](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
 	- 📺 Kurs : [Android Mobil Uygulama Geliştirme Eğitimi | Kotlin](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-kotlin/)
 ---
+<b>ANDROİD STUDİO</b>
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : []()
+	- 🎞 Video : []()
+	- 🎞 Video : []()
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : []()
+	- 📺 Kurs : []()
+	- 📺 Kurs : []()
+---
 <b>ANGULAR.JS</b>
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Angular Türkçe Dersler ve Makaleler](https://github.com/MehmetSert/Angular-Turkce-Makaleler)
@@ -447,6 +457,48 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 	- 📺 Kurs : [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
 	- 📺 Kurs : [TypeScript: Learn Typescript & Type script Pro In Details](https://www.udemy.com/course/typescript-learn-typescript-type-script-pro-in-details/)
+---
+<b>UNITY</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Kurs : [Unity İle Eğitici Oyunlar](https://www.btkakademi.gov.tr/portal/course/unity-ile-egitici-oyunlar-5522)
+	- 📺 Kurs : [Unity C# 2019 ile 2D ve 3D Oyun Tasarlama](https://www.udemy.com/course/sifirdan-unity-2019-ile-2d-ve-3d-oyun-tasarlama/)
+	- 📺 Kurs : [Unity İle 2D & 3D Profesyonel Seviyede Oyun Geliştirin](https://www.udemy.com/course/unity-ile-2d-3d-profesyonel-seviyede-oyun-gelistirin/)
+	- 🎞 Video : [Türkçe Unity 3D Oyun Geliştirme Dersleri](https://www.youtube.com/playlist?list=PL5zyVQ6DQwVmGt_bWamZmbysmyGC8YzLO)
+	- 🎞 Video : [Hızlandırılmış Unity Eğitimi](https://www.youtube.com/playlist?list=PLLnJIFQamFAeIdo8GY1PLjjHXM8-Uv9Rc)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Unity C# | Sıfırdan Profesyonelliğe | 3D | 2D Oyun Yapımı](https://www.udemy.com/course/unity-ile-sifirdan-profesyonellige-3d-2d-oyun-yapimi/)
+	- 📺 Kurs : [Unity C# | Unity Oyun Geliştirmeyi Oyun Geliştirerek Öğren](https://www.udemy.com/course/unity-oyun-gelistirme/)
+	- 📺 Kurs : [(55+ SAAT) Unity 2020,C#| Sıfırdan Unity ile 10 Oyun Projesi](https://www.udemy.com/course/unityoyun/)
+---
+<b>VUE.JS</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Kurs : [Vue.js Temelleri](https://www.udemy.com/course/vuejs-temelleri/)
+	- 📺 Kurs : [Vue 3 ve Firebase ile Galeri Uygulaması Geliştirme](https://www.udemy.com/course/vue-3-ve-firebase-ile-galeri-uygulamas-gelistirme/)
+	- 📺 Kurs : [Node.js ve Vue.js İle Dosya Yedekleme Projesi](https://www.udemy.com/course/nodejs-ve-vuejs-ile-dosya-yedekleme-projesi/)
+	- 🎞 Video : [1 Videoda VUE](https://www.youtube.com/watch?v=G-oxmvgVpZ4)
+	- 🎞 Video : [Alper İle Vue.js, Türkçe VueJs Eğitimi](https://www.youtube.com/playlist?list=PLTzpV7jb-qW-gKIUtMyTq9u_jAJ3JXNdp)
+	- 🎞 Video : [Vue3 Bootcamp](https://www.youtube.com/playlist?list=PL_f2F0Oyaj48Y0Uv4BTlqzK7INi92D2wp)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Sıfırdan İleri Seviye Vue.JS Eğitimi ve Uygulama Geliştirme](https://www.udemy.com/course/sifirdan-ileri-seviye-vuejs-2-vuex-vue-router-egitim-seti/)
+	- 📺 Kurs : [Nuxt.js ile Vue.js Uygulamalarınızı Güçlendirin](https://www.udemy.com/course/sifirdan-nuxtjs-egitimi/)
+	- 📺 Kurs : [Vue.js - Nuxt.js: Başlangıçtan İleri Seviyeye](https://www.udemy.com/course/vuejs-nuxtjs-baslangctan-ileri-seviyeye-2020/)
+---
+<b>VISUAL BASIC</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🎞 Video : [VisualBasic.NET Dersleri](https://www.youtube.com/playlist?list=PLL-bGny0zjWtYpZ08von8o23LLzl9e3hb)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Visual basic kodlama dili ile Program yazmayı öğrenin](https://www.udemy.com/course/visualbasicpro/)
+---
+<b>VISUAL STUDİO CODE</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🎞 Video : [Visual Studio Code | Giriş](https://www.youtube.com/playlist?list=PLGrTHqyRDvx72uHNQ6aZXxa1pSKViqIhE)
+---
+<b>VISUAL STUDIO</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 📺 Kurs : [Visual Studio İpuçları& .NET Temelleri Eğitim Videosu Serisi](https://www.udemy.com/course/visual-studio-egitim-videosu-serisi/)
+	- 🎞 Video : [Microsoft Visual Studio 2022 Kurulumu](https://www.youtube.com/watch?v=teZvOnqojjI)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Visual Studio ile Git, GitHub, BitBucket ve TFS Kullanımı](https://www.udemy.com/course/visual-studio-ile-git-github-bitbucket-ve-tfs-kursu/)
 ---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
