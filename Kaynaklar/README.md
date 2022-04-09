@@ -500,6 +500,28 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Visual Studio ile Git, GitHub, BitBucket ve TFS Kullanımı](https://www.udemy.com/course/visual-studio-ile-git-github-bitbucket-ve-tfs-kursu/)
 ---
+<b>WORDPRESS</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🎞 Video : [WordPress Eğitim Seti](https://www.youtube.com/playlist?list=PLjhLuKEoMDElq2OYz3DJ2uq7Nofv31F5P)
+	- 🎞 Video : [WordPress Eğitimi - Ücretsiz & Youtube - Uygulamalı ve Online & Udemy](https://www.youtube.com/playlist?list=PL5fzGJgJV5a0kKyig5ZCc_jGT3MAoQ3IL)
+	- 📺 Kurs : [Uzmanından Ücretsiz Wordpress Eğitimi](https://www.udemy.com/course/uzmanindan-ucretsiz-wordpress-egitim-seti/)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [WordPress İnternet Sitesi Kurmak: Blog, E-Ticaret, Kurumsal](https://www.udemy.com/course/adim-adim-wordpress-internet-sitenizi-kurma-rehberi/)
+	- 📺 Kurs : [A'dan Z'ye Wordpress ve İnternet Sitesinden Para Kazanmak](https://www.udemy.com/course/adan-zye-wordpress-ve-internet-sitesinden-para-kazanmak/)
+---
+<b>XAMARIN</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🎞 Video : [Xamarin Dersleri](https://www.youtube.com/playlist?list=PL1k5oWAuBhgWy2Pk-4XpIz9u8oRDKUtzu)
+	- 📺 Kurs : [Xamarin İle İos ve Android Uygulama Geliştirme](https://www.udemy.com/course/xamarin-forms-ile-ios-ve-android-uygulama-gelistirme/)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Mobil Uygulama Kursu: Xamarin ile Android ve IOS Geliştirme](https://www.udemy.com/course/xamarin-dersleri/)
+	- 📺 Kurs : [Xamarin ile Android ve iOS Mobil Uygulama Geliştirme ( C# )](https://www.udemy.com/course/xamarin-ile-android-ve-ios-uygulama-gelistirme-w-firebase/)
+	- 📺 Kurs : [Sıfırdan Xamarin ile Aynı Anda Android İOS Uygulama Gelştirme](https://www.udemy.com/course/visual-studio-xamarin-ile-ios-ve-andiroid-ayn-anda-glstm/)
+---
+<b>XML</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🎞 Video : [Her Yönüyle XML Eğitim Seti](https://www.youtube.com/playlist?list=PLY20HpFruiK1Y2ee8QHeA4mt4xBEq1xwZ)
+---
 # Katkıda Bulunanlar 📁
  Bize bu kaynakları oluşturmamızda yardımcı olan herkese çok teşekkürler. 🥰
  
