@@ -27,16 +27,6 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Flutter ile Uygulama Geliştirme Kursu | Android & IOS](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
 	- 📺 Kurs : [Android Mobil Uygulama Geliştirme Eğitimi | Kotlin](https://www.udemy.com/course/android-mobil-uygulama-gelistirme-egitimi-kotlin/)
 ---
-<b>ANDROİD STUDİO</b>
-- <b>Ücretsiz Kaynaklar</b>
-	- 🌍 Web Sitesi : []()
-	- 🎞 Video : []()
-	- 🎞 Video : []()
-- <b>Ücretli Kaynaklar</b>
-	- 📺 Kurs : []()
-	- 📺 Kurs : []()
-	- 📺 Kurs : []()
----
 <b>ANGULAR.JS</b>
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Angular Türkçe Dersler ve Makaleler](https://github.com/MehmetSert/Angular-Turkce-Makaleler)
