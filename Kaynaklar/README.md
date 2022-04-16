@@ -1,4 +1,4 @@
-# Kaynaklar 📚
+# Yazılımcılar İçin Kaynaklar 📚
 Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişebilirsiniz.
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.yazilimturkiye.com/yazilimcilar-icin-kaynaklar/)
@@ -476,6 +476,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 <b>VISUAL BASIC</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🎞 Video : [VisualBasic.NET Dersleri](https://www.youtube.com/playlist?list=PLL-bGny0zjWtYpZ08von8o23LLzl9e3hb)
+	- 📁 Doküman : [VB.Net 1](https://mega.nz/file/LocH2QKJ#odzY9lybZmAXJKwk2BhAPJyVvxsIT52a40tnOSuBrNY)
+	- 📁 Doküman : [VB.Net 2](https://mega.nz/file/Xh9SwICJ#chNn5WMF8JK7q9LTNCtO67F4MD9Q7Ms3svYOiX4mxd4)
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Visual basic kodlama dili ile Program yazmayı öğrenin](https://www.udemy.com/course/visualbasicpro/)
 ---
@@ -495,6 +497,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 🎞 Video : [WordPress Eğitim Seti](https://www.youtube.com/playlist?list=PLjhLuKEoMDElq2OYz3DJ2uq7Nofv31F5P)
 	- 🎞 Video : [WordPress Eğitimi - Ücretsiz & Youtube - Uygulamalı ve Online & Udemy](https://www.youtube.com/playlist?list=PL5fzGJgJV5a0kKyig5ZCc_jGT3MAoQ3IL)
 	- 📺 Kurs : [Uzmanından Ücretsiz Wordpress Eğitimi](https://www.udemy.com/course/uzmanindan-ucretsiz-wordpress-egitim-seti/)
+	- 📁 Doküman : [Wordpress Tema Programlama](https://mega.nz/file/P1dThTRA#n-zeYtswcFTdbpkRh6BOGONxrVfiWYkeMN0AWjBTpIg)
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [WordPress İnternet Sitesi Kurmak: Blog, E-Ticaret, Kurumsal](https://www.udemy.com/course/adim-adim-wordpress-internet-sitenizi-kurma-rehberi/)
 	- 📺 Kurs : [A'dan Z'ye Wordpress ve İnternet Sitesinden Para Kazanmak](https://www.udemy.com/course/adan-zye-wordpress-ve-internet-sitesinden-para-kazanmak/)
