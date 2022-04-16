@@ -268,6 +268,19 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Android Mobil Uygulama Kursu: Kotlin & Java](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)
 	- 📺 Kurs : [Kotlin Programlama Eğitimi](https://www.udemy.com/course/kotlin-programlama-egitimi/)
 ---
+<b>LARAVEL</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Mobilhanem](https://www.mobilhanem.com/laravel-egitimleri/)
+	- 🎞 Video : [PHP Dersleri - Laravel Eğitimleri](https://www.youtube.com/playlist?list=PL5HkP8Ta9WU8367CJK4OyfYdJ7X6-5W-Z)
+	- 🎞 Video : [Laravel 8 Framework E-Ticaret](https://www.youtube.com/playlist?list=PLIUezwWmVtFX3aoVpOh5ZVn_EtKuX8fXw)
+	- 📺 Kurs : [Laravel 5 Eğitim Seti](https://www.youtube.com/playlist?list=PLZtkgIR0fgTH2bZmadFPgwCTKIctvMwpM)
+	- 📺 Kurs : [Laravel Giriş Seviyesi Türkçe](https://www.udemy.com/course/laravel-turkce-egitim-seti/)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Laravel ile Sıfırdan Eticaret Projesi Eğitimi](https://www.udemy.com/course/laravel-ile-sifirdan-eticaret-projesi/)
+	- 📺 Kurs : [Laravel 6 Uygulamalı Sıfırdan İleri Seviye Eğitimi](https://www.udemy.com/course/laravel-egitimi/)
+	- 📺 Kurs : [En Kapsamlı Sıfırdan Zirveye Uygulamalı Laravel7 Eğitimi A-Z](https://www.udemy.com/course/sfrdan-laravel-pc-ubuntu-kurulum-ve-laravel-egitimi/)
+---
 <b>MAKİNE ÖĞRENMESİ</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🎞 Video : [Makine Öğrenmesine Giriş](https://www.youtube.com/playlist?list=PLlHW_nnK3v5hlnKAsAUToYFCHYGBsR_6a)
@@ -520,11 +533,6 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
  
 - <b>[Yazılım Türkiye Toplulugu Üyeleri](https://t.me/yazilimturkiye)</b>
 - <b>[Fikret YALÇIN](https://github.com/fikretyn)</b>
-	- 📁 Doküman : [Android Studio Dersleri](https://mega.nz/file/b5Fh0SpK#DktDT1wTlz8KuBYO-sSPF1CrqS21bTbUrpzNzRkBNxE)
-	- 📁 Doküman : [Algoritma ve Programlama Giriş](https://mega.nz/file/L1UzEAzJ#HwrHDA6myIk5iLQTGDEdbArZRuVhYKqg1mv_q5RHkMU)
-	- 📁 Doküman : [CSS Dersleri](https://mega.nz/file/nx82HLDa#tBg3fL1ft2izUwONMPuENqfSN3uQoB02n7jW3jzrpcs)
-	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 1](https://mega.nz/file/ToUxiAIK#ecX8o89iExDOOqThh3KPVKC-WqyIhe7OW7zkRU5VT6g)
-	- 📁 Doküman : [Geliştiriciler için Java ve Oracle 2](https://mega.nz/file/ilEHAIQY#4mVy9K8NYjq0Qpzk88L8SKnXaJ28EHJgks2xKYjbfco)
 - <b>[Elif Nur](https://github.com/elifnurc4)</b>
 - <b>[Türkçe Kaynaklar](https://turkcekaynaklar.com/)</b>
 - <b></b>
