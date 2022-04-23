@@ -281,6 +281,18 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Laravel 6 Uygulamalı Sıfırdan İleri Seviye Eğitimi](https://www.udemy.com/course/laravel-egitimi/)
 	- 📺 Kurs : [En Kapsamlı Sıfırdan Zirveye Uygulamalı Laravel7 Eğitimi A-Z](https://www.udemy.com/course/sfrdan-laravel-pc-ubuntu-kurulum-ve-laravel-egitimi/)
 ---
+<b>LİNUX</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/linux-dersleri/)
+	- 🎞 Video : [Linux Eğitimi (Redhat, CENTOS)](https://www.youtube.com/playlist?list=PLeKWVPCoT9e1tqsgPTQabtumX6E1XpAhz)
+	- 📺 Kurs : [Temel Linux Eğitimi Dokümantasyon Kaynağı](https://www.udemy.com/course/linux-dokumantasyonu/)
+	- 📺 Kurs : [Linux Dünyasına İlk Adım](https://www.udemy.com/course/linux-dunyasna-ilk-adim/)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Kali Linux ile Sıfırdan Temel Linux Eğitimi](https://www.udemy.com/course/kali-linux-ile-sifirdan-temel-linux-egitimi/)
+	- 📺 Kurs : [Linux A-Z™ | Uygulamalarla Sıfırdan Linux Eğitimi](https://www.udemy.com/course/linux-egitimi/)
+	- 📺 Kurs : [Uygulamalı Siber Güvenlik ve Etik Hacker Eğitimi](https://www.udemy.com/course/uygulamal-siber-guvenlik-baslangc-ve-orta-seviye-hacking/)
+---
 <b>MAKİNE ÖĞRENMESİ</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🎞 Video : [Makine Öğrenmesine Giriş](https://www.youtube.com/playlist?list=PLlHW_nnK3v5hlnKAsAUToYFCHYGBsR_6a)
