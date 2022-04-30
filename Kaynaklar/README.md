@@ -110,6 +110,10 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [C# ve SQL| Sıfırdan C# ile Nesneye Yönelik Programlama | C#](https://www.udemy.com/course/c-sharp-programlama-dili-ile-nesneye-yonelik-programlama/)
 	- 📺 Kurs : [C# OOP Kamp: Nesne Tabanlı Programlamayı Sıfırdan Öğrenin](https://www.udemy.com/course/c-oop-kamp-nesne-tabanl-programlamay-sfrdan-ogrenin/)
 ---
+<b>CRYSTAL</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🎞 Video : [Adım adım Crystal](https://www.youtube.com/playlist?list=PLqgPe8mz0dh5p73VdFwAuh1MF_yQ6f9RJ)
+---
 <b>CSS</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [CSS.Sitesi](https://css.sitesi.web.tr/)
@@ -430,6 +434,16 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Küçükten Büyüğe Herkes İçin Scratch İle Görsel Programlama](https://www.udemy.com/course/scratch-programlama/)
 	- 📺 Kurs : [Scratch Kodlama: Yeni Başlayanlar İçin Uygulamalı Scratch](https://www.udemy.com/course/scratch-kodlama-yeni-baslayanlar-icin-uygulamal-scratch/)
 	- 📺 Kurs : [Scratch Artık Çocuk Oyuncağı](https://www.udemy.com/course/scratch-artk-cocuk-oyuncag/)
+---
+<b>SOLİDİTY</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Github.com/denizozzgur](https://github.com/denizozzgur/Solidity_TR)
+	- 🎞 Video : [Solidity Eğitimi - Blockchain Akıllı Kontrat Geliştiriciliği | İTÜ Blockchain](https://www.youtube.com/playlist?list=PLby2HXktGwN4Cof_6a8YwlMrboX8-hs73)
+	- 🎞 Video : [Ethereum & Solidity](https://www.youtube.com/playlist?list=PLDq-6McXyzTNlaJ5hCFvLdC_x6zryhl7S)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Ethereum ve Solidity Dili ile Blockchain Programlama](https://www.udemy.com/course/ethereum-solidity-blockchain/)
+	- 📺 Kurs : [Blockchain Eğitim Seti 2 Solidty | Web3JS | EVM | Blockchain](https://www.udemy.com/course/blockchain-egitim-seti-2-solidty-web3js-evm-blockchain/)
 ---
 <b>SQL</b> 
 - <b>Ücretsiz Kaynaklar</b>
