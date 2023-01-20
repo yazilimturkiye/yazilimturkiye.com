@@ -71,6 +71,12 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Complete Bash Shell Scripting](https://www.udemy.com/course/complete-bash-shell-scripting-b/)
 	- 📺 Kurs : [Bash Mastery: The Complete Guide to Bash Shell Scripting](https://www.udemy.com/course/bash-mastery/)
 ---
+<b>BLOCKCHAİN</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Amazon.com]()
+	- 🎞 Video : [Bitcoin ve blockchain nedir?](https://www.youtube.com/watch?v=3tKpB7jwwHE&ab_channel=%2B90)
+	- 🎞 Video : [En Basit Anlatımla "Blockchain'de Para Transferi Nasıl Olur"](https://www.youtube.com/watch?v=CJXCZKPKsV4&ab_channel=MuratSu)
+---
 <b>C</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [CDersleri](https://www.cdersleri.com/)
