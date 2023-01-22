@@ -116,6 +116,11 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [C# ve SQL| Sıfırdan C# ile Nesneye Yönelik Programlama | C#](https://www.udemy.com/course/c-sharp-programlama-dili-ile-nesneye-yonelik-programlama/)
 	- 📺 Kurs : [C# OOP Kamp: Nesne Tabanlı Programlamayı Sıfırdan Öğrenin](https://www.udemy.com/course/c-oop-kamp-nesne-tabanl-programlamay-sfrdan-ogrenin/)
 ---
+<b>CLOJURE</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🎞 Video : [Clojure Dersleri](https://www.youtube.com/playlist?list=PLPyI0IgntaH91k0HOT5YhjNsEJeuudvza)
+	- 🎞 Video : [Clojure Programlama Dili Egitimi](https://www.youtube.com/playlist?list=PLC9XHh8X_kVLrWwxzJRen96bzByJWh5CA)
+---
 <b>CRYSTAL</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🎞 Video : [Adım adım Crystal](https://www.youtube.com/playlist?list=PLqgPe8mz0dh5p73VdFwAuh1MF_yQ6f9RJ)
