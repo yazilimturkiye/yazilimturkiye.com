@@ -30,8 +30,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 <b>ANGULAR.JS</b>
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Angular Türkçe Dersler ve Makaleler](https://github.com/MehmetSert/Angular-Turkce-Makaleler)
-	- 📺 Kurs : [Angular 9 Best Practices(En iyi teknikler)](https://www.udemy.com/course/angular-9-best-practices-en-iyi-teknikler/)
-	- 📺 Kurs : [Angular 4 & Todo Uygulaması](https://www.udemy.com/course/angular-4-todo-uygulamasi/)
+	- 📺 Kurs : [ABP Angular Temelleri](https://www.udemy.com/course/abp-angular-temelleri/)
+	- 📺 Kurs : [AngularJS Sıfırdan Kapsamlı Eğitim Seti](https://www.udemy.com/course/bidoluyazilim_angularjs_egitim_seti/)
 	- 📺 Kurs : [Davud Hoca ile Angular JS](https://www.udemy.com/course/angularjs-egitim-seti/)
 	- 📺 Kurs : [AngularJS Sıfırdan Kapsamlı Eğitim Seti](https://www.udemy.com/course/bidoluyazilim_angularjs_egitim_seti/)
 	- 📺 Kurs : [HTML | CSS | JavaScript | JQuery | AngularJS Örnek Uygulama](https://www.udemy.com/course/bidoluyazilim_ornek_uygulamalar/)
@@ -67,8 +67,8 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 🎞 Video : [Bash Script Temel Eğitimi](https://www.youtube.com/playlist?list=PLeKWVPCoT9e0jHStZlH-z8Gsoo1SBZJlG)
 	- 📺 Kurs : [Bash Programlama Dili](https://www.btkakademi.gov.tr/portal/course/bash-programlama-dili-883)
 - <b>Ücretli Kaynaklar</b>
-	- 📺 Kurs : [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/)
-	- 📺 Kurs : [Complete Bash Shell Scripting](https://www.udemy.com/course/complete-bash-shell-scripting-b/)
+	- 📺 Kurs : [Bash Script Temel Eğitimi](https://www.udemy.com/course/bash-script-temel-egitimi/)
+	- 📺 Kurs : [Linux Shell Script Yazma Eğitimi](https://www.udemy.com/course/linux-shell-script-yazma-egitimi/)
 	- 📺 Kurs : [Bash Mastery: The Complete Guide to Bash Shell Scripting](https://www.udemy.com/course/bash-mastery/)
 ---
 <b>BLOCKCHAİN</b> 
@@ -76,6 +76,9 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 🌍 Web Sitesi : [Amazon.com]()
 	- 🎞 Video : [Bitcoin ve blockchain nedir?](https://www.youtube.com/watch?v=3tKpB7jwwHE&ab_channel=%2B90)
 	- 🎞 Video : [En Basit Anlatımla "Blockchain'de Para Transferi Nasıl Olur"](https://www.youtube.com/watch?v=CJXCZKPKsV4&ab_channel=MuratSu)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Blockchain Dünyasına Giriş](https://www.udemy.com/course/blockchain_dunyasina_giris/)
+	- 📺 Kurs : [C# ile Blockchain Kodlama](https://www.udemy.com/course/csharp-ile-blockchain-kodlama/)
 ---
 <b>C</b> 
 - <b>Ücretsiz Kaynaklar</b>
@@ -87,7 +90,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Sıfırdan C Programlama Öğrenin](https://www.udemy.com/course/sifirdan-c-programlama-ogrenin/)
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [C | Sıfırdan İleri Seviyeye Komple C Programlama](https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-c-programlama-kursu/)
-	- 📺 Kurs : [Sıfırdan İleri Seviyeye C Programlama(+100 Algoritma)](https://www.udemy.com/course/orneklerle-c-nesne-tabanl-programlama100-algoritma/)
+	- 📺 Kurs : [C Programlama : Sıfırdan Uzmanlığa Yazılım Geliştirme](https://www.udemy.com/course/c-programlama-egitimi/)
 	- 📺 Kurs : [(25+Saat) C |Sıfırdan İleri Seviyeye Uygulamalı Programlama](https://www.udemy.com/course/25saat-c-sifirdan-ileri-seviyeye-uygulamali-programlama/)
 ---
 <b>C++</b> 
@@ -107,7 +110,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 🎞 Video : [Murat Yücedağ Videoları](https://www.youtube.com/user/YazilimHerYerde/playlists)
 	- 🎞 Video : [C# Eğitim Videoları](https://www.youtube.com/watch?v=5T6XQarpXgQ&list=PLh9ECzBB8tJNnowfMHINA00u8cJboZzNt)
 	- 🎞 Video : [C# Dersleri](https://www.youtube.com/watch?v=2EkMrrX9sYY&list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD)
-	- 📺 Kurs : [C# Öğrenin](https://www.udemy.com/course/csharp-egitim-seti/)
+	- 📺 Kurs : [C# Form Örnekleri | 7 Adet | C Sharp Examples](https://www.udemy.com/course/c-form-ornekleri-7-adet/)
 	- 📺 Kurs : [C# programlama dili ile Temel Programlama Eğitimi](https://www.udemy.com/course/c-sharp-programlama-dili-ile-temel-programlama-egitimi/)
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti](https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/)
@@ -120,14 +123,20 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 - <b>Ücretsiz Kaynaklar</b>
 	- 🎞 Video : [Clojure Dersleri](https://www.youtube.com/playlist?list=PLPyI0IgntaH91k0HOT5YhjNsEJeuudvza)
 	- 🎞 Video : [Clojure Programlama Dili Egitimi](https://www.youtube.com/playlist?list=PLC9XHh8X_kVLrWwxzJRen96bzByJWh5CA)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Clojure: The Complete Beginner's Guide](https://www.udemy.com/course/clojureprogramming/)
+	- 📺 Kurs : [Clojure - from beginner to advanced](https://www.udemy.com/course/advancedclojure/)
+	- 📺 Kurs : [Clojure Basics](https://www.udemy.com/course/clojure-course/)
 ---
 <b>CRYSTAL</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🎞 Video : [Adım adım Crystal](https://www.youtube.com/playlist?list=PLqgPe8mz0dh5p73VdFwAuh1MF_yQ6f9RJ)
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Learn Crystal Programming](https://www.udemy.com/course/learn-crystal-programming/)
 ---
 <b>CSS</b> 
 - <b>Ücretsiz Kaynaklar</b>
-	- 🌍 Web Sitesi : [CSS.Sitesi](https://css.sitesi.web.tr/)
+	- 📺 Kurs : [CSS](https://www.btkakademi.gov.tr/portal/course/css-7453)
 	- 🌍 Web Sitesi : [Fatihhayrioglu](https://fatihhayrioglu.com/css-dersleri/)
 	- 📁 Doküman : [CSS Dersleri](https://mega.nz/file/nx82HLDa#tBg3fL1ft2izUwONMPuENqfSN3uQoB02n7jW3jzrpcs)
 	- 🎞 Video : [Bootstrap 4 ile Responsive Web Tasarımı Dersleri 2017](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq-xwLUQ0-OIA46mKwYeaxXR)
@@ -215,7 +224,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 🎞 Video : [1 Videoda HTML, CSS, Flexbox, Responsive Tasarım [Web Geliştirme Eğitimi]](https://www.youtube.com/watch?v=y745R3Lv9WI)
 	- 📺 Kurs : [Bir Saatte Html Öğren](https://www.udemy.com/course/1-saatte-html-ogren/)
 	- 📺 Kurs : [HTML5 ve CSS3](https://www.udemy.com/course/html5-css3-html5-css3-html5-css3-html5-css3-html5-css3-html5-css3-html/)
-	- 📺 Kurs : [Sıfırdan HTML, HTML 5 Öğrenin](https://www.udemy.com/course/sifirdan-ileri-seviye-php-pdo-e-ticaret-web-sitesi-yapma/)
+	- 📺 Kurs : [Sıfırdan HTML5 Eğitim Seti](https://www.udemy.com/course/ucretsiz-sifirdan-html5-egitim-seti/)
 	- 📺 Kurs : [HTML5 ile Web Geliştirme](https://www.btkakademi.gov.tr/portal/course/html5-ile-web-gelistirme-13200#!/about)
 
 - <b>Ücretli Kaynaklar</b>
@@ -230,8 +239,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Ionic 4-Firebase-Uploadcare ile Mobil Uygulama Oluşturalım](https://www.udemy.com/course/ionic-4-firebase-uploadcare-ile-mobil-uygulama-olusturalm/)
-	- 📺 Kurs : [Sıfırdan Ionic 3 Hybrid Uygulama Geliştirme - Typescript](https://www.udemy.com/course/sifirdan-ionic-3-mobile-uygulama-gelistirime-typescript/)
-	- 📺 Kurs : [IONIC ve VUE 3 ile Mobil Uygulama Geliştirme Kursu [2021]](https://www.udemy.com/course/ionic-ve-vue-3-ile-mobil-uygulama-gelistirme-kursu-2021/)
+	- 📺 Kurs : [IONIC ve VUE 3 ile Mobil Uygulama Geliştirme Kursu](https://www.udemy.com/course/ionic-ve-vue-3-ile-mobil-uygulama-gelistirme-kursu-2021/)
 ---
 <b>JAVA</b> 
 - <b>Ücretsiz Kaynaklar</b>
@@ -339,6 +347,9 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/mongodb-dersleri/)
 	- 🎞 Video : [Mongo DB - NoSQL](https://www.youtube.com/playlist?list=PLXGR42frWa8TP4T_MccK_B2_sKxGqbCFr)
 	- 🎞 Video : [Yeni Başlayanlar İçin MongoDB (70 Dakika)](https://www.youtube.com/watch?v=ZMgs0wSsfUk)
+ - <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Sıfırdan, İleri Düzeye, Alıştırmalarla MongoDB Eğitimi](https://www.udemy.com/course/sifirdan-ileri-duzeye-alistirmalarla-mongodb-egitimi/)
+	- 📺 Kurs : [Hızlı Kurs MongoDB ile Veritabanı Kursu](https://www.udemy.com/course/hzl-kurs-mongodb-ile-veritaban-kursu-2022/)
 ---
 <b>NODE.JS</b> 
 - <b>Ücretsiz Kaynaklar</b>
@@ -367,16 +378,25 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Sıfırdan İleri Seviyeye Komple PHP ile Web Geliştirme](https://www.udemy.com/course/sifirdan-ileri-seviye-web-programlama-html-php-pdo-mysql/)
-	- 📺 Kurs : [Sıfırdan PHP ve MySQL Eğitim Serisi](https://www.udemy.com/course/php-egitim-seti/)
-	- 📺 Kurs : [Sıfırdan İleriye PHP ve MySQL Eğitim Seti [PDO-MYSQLİ]](https://www.udemy.com/course/php-dersleri-a-dan-z-ye-mysql-egitim-seti-pdo-mysqli/)
+	- 📺 Kurs : [PHP OOP (Nesne Yönelimli Programlama) ve Proje Geliştirme](https://www.udemy.com/course/php-oop-kursu/)
+	- 📺 Kurs : [Sıfırdan İleriye PHP ve MySQL Eğitim Seti PDO-MYSQLİ](https://www.udemy.com/course/php-dersleri-a-dan-z-ye-mysql-egitim-seti-pdo-mysqli/)
+---
+<b>POSTGRESQL</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [Yusufsezer.com](https://www.yusufsezer.com.tr/postgresql-dersleri/)
+	- 🎞 Video : [Postgre SQL Dersleri](https://www.youtube.com/playlist?list=PLKnjBHu2xXNOooo9pcx5Dw-6zOyk1rwyO)
+	- 🎞 Video : [PostgreSQL Dersleri](https://www.youtube.com/playlist?list=PLKTFMiRaoMiOzYluFBZfxVudolKCt6B3K)
+	- 🎞 Video : [Postgresql Veri Tabanı Dersleri](https://www.youtube.com/playlist?list=PLGIpWs7ejSWX8rsV8Og2D67x3HaQu1vY7)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [PostgreSQL'i Sıfırdan İleri Seviyeye Tüm Yönleriyle Öğrenin](https://www.udemy.com/course/postgresqli-sfrdan-ileri-seviyeye-tum-yonleriyle-ogrenin/)
+	- 📺 Kurs : [PostgreSQL Veritabanı Programlama (Part 1) : Temeller](https://www.udemy.com/course/postgresql-veritabani-programlama-temelleri-ve-sql/)
 ---
 <b>PYTHON</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Mobilhanem.com](https://www.mobilhanem.com/python-egitimi/)
-	- 🌍 Web Sitesi : [Python.sitesi.web.tr](https://python.sitesi.web.tr/)
 	- 🌍 Web Sitesi : [Sadikturhan.com](https://www.sadikturan.com/python-dersleri)
 	- 📺 Kurs : [Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
-	- 📺 Kurs : [Programlamaya Giriş İçin Temel Kurs](https://www.udemy.com/course/temel-python-kursu/)
 	- 📺 Kurs : [Python ile Nesne Tabanlı Programlama A-Z™](https://www.udemy.com/course/python-nesne-tabanli-programlama/)
 	- 📺 Kurs : [Python Programlamanın Temelleri](https://www.udemy.com/course/python-programlamann-temelleri/)
 	- 📺 Kurs : [Python ile Sıfırdan Programlamaya Giriş](https://www.udemy.com/course/python-ile-sfrdan-programlamaya-giris-2021/)
@@ -410,7 +430,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [React JS: Sıfırdan Başlayarak React JS, Redux ve Hooks Öğren](https://www.udemy.com/course/react-js-sfrdan-baslayarak-react-js-redux-ve-hooks-ogren/)
-	- 📺 Kurs : [React JS :Uygulamalı React JS Eğitimi](https://www.udemy.com/course/uygulamali-react-js-egitimi/)
+	- 📺 Kurs : [React JS : Uygulamalı React JS -Redux Eğitimi](https://www.udemy.com/course/react-egitimi/)
 	- 📺 Kurs : [Sıfırdan Her Yönüyle React ve Redux](https://www.udemy.com/course/react-redux-egitimi/)
 ---
 <b>REACT NATİVE</b> 
@@ -454,7 +474,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Ethereum ve Solidity Dili ile Blockchain Programlama](https://www.udemy.com/course/ethereum-solidity-blockchain/)
-	- 📺 Kurs : [Blockchain Eğitim Seti 2 Solidty | Web3JS | EVM | Blockchain](https://www.udemy.com/course/blockchain-egitim-seti-2-solidty-web3js-evm-blockchain/)
+	- 📺 Kurs : [Blockchain Solidity Developer Kursu](https://www.udemy.com/course/sfrdan-ileri-seviye-blockchain-solidity-developer-kursu/)
 ---
 <b>SQL</b> 
 - <b>Ücretsiz Kaynaklar</b>
@@ -463,9 +483,9 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 🎞 Video : [60 Derste SQL](https://www.youtube.com/playlist?list=PLKnjBHu2xXNP6Qa6u8GLawPnzo1brHZPP)
 	- 🎞 Video : [1 Saatte SQL Veritabanı Mantığını Öğren.](https://www.youtube.com/watch?v=5jyEhiKmbDo)
 	- 🎞 Video : [1 Videoda Veritabanı Tasarımı Normalizasyon ve SQL (SQL Dersleri)](https://www.youtube.com/watch?v=URskGHtvFlE)
-	- 📺 Kurs : [Yeni Başlayanlar için Temel Sql Eğitimi 1](https://www.udemy.com/course/yeni-baslayanlar-icin-temel-sql-egitimi-1/)
-	- 📺 Kurs : [Yeni Başlayanlar için Temel Sql Eğitimi 2](https://www.udemy.com/course/yeni-baslayanlar-icin-temel-sql-egitimi-2/)
-	- 📺 Kurs : [Yeni Başlayanlar için Temel Sql Eğitimi 3](https://www.udemy.com/course/yeni-baslayanlar-icin-temel-sql-egitimi-3/)
+	- 📺 Kurs : [Sıfırdan SQL Eğitimi](https://www.udemy.com/course/temel-sql-egitimi/)
+	- 📺 Kurs : [Başlangıç Seviyesi Microsoft SQL SERVER](https://www.udemy.com/course/baslangc-seviyesi-microsoft-sql-server/)
+	- 📺 Kurs : [Yeni Başlayanlar İçin Sql Dersleri](https://www.udemy.com/course/sql-dersi/)
 
 - <b>Ücretli Kaynaklar</b>
 	- 📺 Kurs : [Uygulamalarla SQL Öğreniyorum](https://www.udemy.com/course/sql-ogreniyorum/)
@@ -494,6 +514,7 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	-  🎞 Video : [1 Videoda TypeScript](https://www.youtube.com/watch?v=LEKyAW3jPKA)
 	-  🎞 Video : [Typescript Dersleri](https://www.youtube.com/playlist?list=PLDI9Elaqezgy2cCm0oVrwA0tCDj96dCgb)
 - <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Typescript](https://www.udemy.com/course/typescript-egitimi/)
 	- 📺 Kurs : [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
 	- 📺 Kurs : [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
 	- 📺 Kurs : [TypeScript: Learn Typescript & Type script Pro In Details](https://www.udemy.com/course/typescript-learn-typescript-type-script-pro-in-details/)
