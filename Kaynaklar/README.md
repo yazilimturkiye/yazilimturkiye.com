@@ -291,6 +291,20 @@ Aşağıdan yazılımcılar için önerdiğimiz tüm Türkçe kaynaklara erişeb
 	- 📺 Kurs : [Android Mobil Uygulama Kursu: Kotlin & Java](https://www.udemy.com/course/android-o-mobil-uygulama-dersi-kotlin-java/)
 	- 📺 Kurs : [Kotlin Programlama Eğitimi](https://www.udemy.com/course/kotlin-programlama-egitimi/)
 ---
+<b>KRİPTOLOJİ</b> 
+- <b>Ücretsiz Kaynaklar</b>
+	- 🌍 Web Sitesi : [YazilimTurkiye.com](https://www.yazilimturkiye.com/kriptoloji-nedir/)
+	- 🎞 Video : [Kriptoloji (Şifreleme)](https://www.youtube.com/playlist?list=PLh9ECzBB8tJM-T5Dlbh-Byl_9c_2d9pbk)
+	- 📺 Kurs : [Temel Kriptografi](https://www.btkakademi.gov.tr/portal/course/temel-kriptografi-20653)
+	- 📺 Kurs : [Temel Kriptoloji](https://www.btkakademi.gov.tr/portal/course/temel-kriptoloji-10112)
+	- 📁 Doküman : [Kriptolojinin Temelleri](https://mega.nz/file/q4FhRS6L#IMJVJQvujrQ86-tKaP-aIw6Id_pSb3isYunmK-fSZHs)
+	- 📁 Doküman : [Kriptolojiye Giriş Ders Notları (ileri Seviye)](https://mega.nz/file/f803QTQI#E6AD_9xF4xIBWMX4pLp8BUnf-9KordExSAsmerBvP5A)
+ 	- 📁 Doküman : [Bilgi Güvenliği ve Kriptoloji](https://mega.nz/file/Pt9ilaKY#m0bV3w4EAw3y9Bjy9Zb_swFeHc6mk2iDruKc2DOkVKA)
+
+- <b>Ücretli Kaynaklar</b>
+	- 📺 Kurs : [Başlangıçtan İleri Seviyeye Uygulamalı Kriptoloji Eğitimi](https://www.udemy.com/course/baslangctan-ileri-seviyeye-uygulamal-kriptoloji-egitimi/)
+	- 📺 Kurs : [Uygulama Destekli Kriptoloji Eğitimi](https://www.udemy.com/course/uygulama-destekli-kriptoloji-egitimi/)
+---
 <b>LARAVEL</b> 
 - <b>Ücretsiz Kaynaklar</b>
 	- 🌍 Web Sitesi : [Mobilhanem](https://www.mobilhanem.com/laravel-egitimleri/)
